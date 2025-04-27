@@ -1,0 +1,15 @@
+#Every configuration change will immediately be reflected on the running server! (Automatic reload)
+#
+#Use the 'forwarding.secret' from Velocity (and not the default value of "") and insert it here, between the quotes.
+forwardingSecret = "`${CFG_FORWARDING_SECRET}"
+#
+#This must be enabled after you inserted your forwarding secret for the server to accept and send forwarding requests.
+#If disabled the server will act as if the mod is not installed.
+#Consider deleting NeoForwarding jar if you don´t want to use it!
+#(leaving the mod installed will still apply mixins but cancel each function)
+enableForwarding = false
+#
+#This must be enabled for velocity to pass modded commands.
+#If disabled Velocity will throw an exception and the login process will be unsuccessful.
+#Leave this on unless you know what you are doing.
+enableEmbeddedCrossStitch = true

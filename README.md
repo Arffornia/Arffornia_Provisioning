@@ -1,13 +1,9 @@
-# Typescript Template
+# Arffornia Network
 
-This package lets you manage the variables you want to save and reload.
+This repository contains the base configuration for Arffornia's servers and proxie.
+It also contains the tool for updating server and proxy configuration at startup (initContainer).
 
-## Install : 
-
-To include Typescript Template in your project, you can install it using npm:
-```bash
-npm i @the_gost_sniper/typescript_template
-```
+It is used by the Kubernetes cluster, replacing variables formatted as `${CFG_[^}]+}` by environment variables defined in the ConfigMap/EnvVar of each server instance.
 
 ## Usage : 
 
@@ -26,6 +22,3 @@ npm test
 ## License
 
 This project is licensed under the MIT licence. You can consult the complete text of the licence in the file [LICENSE](LICENSE).
-
-
-

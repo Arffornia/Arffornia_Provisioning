@@ -1,0 +1,13 @@
+{
+    "mods": {
+        "curseforge": [
+            {
+                "displayName": "Applied Energistics 2",
+                "projectId": "223794",
+                "fileId": "6451686"
+            }
+        ],
+        "modrinth": [
+        ]
+    }
+}
