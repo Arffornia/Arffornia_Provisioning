@@ -28,7 +28,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add externalFiles/index.json
+          git add config/proxy/index.json config/server/index.json
           git commit -m "🔃 Update indexes"
           git push
         env:
