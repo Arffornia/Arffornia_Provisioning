@@ -3,7 +3,7 @@ name: Generate External Files Index
 on:
   push:
     branches:
-      - $default-branch
+      - main
 
 jobs:
   generate-index:
