@@ -2,7 +2,7 @@ import { generateIndex } from '@arffornia/nexus_mods';
 import path from 'path';
 
 async function generateIndexHandler(kind: string) {
-    const storageDir = path.join(__dirname, 'config', kind, 'files');
+    const storageDir = path.join(__dirname, 'config', kind, 'storage');
     const outputFile = path.join(__dirname, 'config', kind, 'index.json');
 
     try {
