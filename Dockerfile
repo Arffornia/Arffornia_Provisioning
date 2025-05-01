@@ -8,13 +8,7 @@ RUN npm install
 
 COPY . .
 
-RUN npx tsc
-
-FROM node:23.11-alpine3.21 AS runner
-
-WORKDIR /app
-
-COPY --from=builder /app /app
+RUN npm run build
 
 ENV installBasePath='/data' \
     baseUrl='https://raw.githubusercontent.com/Arffornia/Arffornia_Network/refs/heads/main/' \

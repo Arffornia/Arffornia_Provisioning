@@ -9,7 +9,7 @@ import { exit } from "process";
  */
 async function updateConfig(installBasePath: string, baseUrl: string, kind: string): Promise<void> {
     const externalFilesUrl = new URL(`config/${kind}/`, baseUrl).href;
-    const modListUrl = new URL(`config/${kind}/index.json`, baseUrl).href;
+    const modListUrl = new URL(`config/${kind}/modList.json`, baseUrl).href;
 
     const nexusMods = new NexusMods(installBasePath);
 
