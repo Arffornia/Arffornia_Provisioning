@@ -7,7 +7,13 @@ It is used by the Kubernetes cluster, replacing variables formatted as `${CFG_[^
 
 ## Usage : 
 
-TODO
+```sh
+docker build -t arffornia_net .
+```
+
+```sh
+docker run --rm -v $(pwd)/data:/data arffornia_net:latest
+```
 
 ## Tests
 

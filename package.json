@@ -35,6 +35,6 @@
     "typescript": "^5.5.4"
   },
   "dependencies": {
-    "@arffornia/nexus_mods": "^1.0.3"
+    "@arffornia/nexus_mods": "^1.0.4"
   }
 }
