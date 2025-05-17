@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "generatedAt": "2025-05-17T17:32:54.565Z",
+=======
+  "generatedAt": "2025-05-17T17:08:14.825Z",
+>>>>>>> de64e0693e17359d75bf897d02c6337e8a39b0e6
   "files": [
     {
       "path": "config/.gitkeep",
