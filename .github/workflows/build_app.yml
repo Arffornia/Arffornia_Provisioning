@@ -13,7 +13,7 @@ env:
   REGISTRY: ghcr.io
   
   # github.repository as <account>/<repo>
-  IMAGE_NAME: "arffornia/config_updater"
+  IMAGE_NAME: "arffornia/config-updater"
 
   DOCKERFILE_NAME: './Dockerfile'
 
