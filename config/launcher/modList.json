@@ -1,0 +1,18 @@
+{
+    "mods": {
+        "curseforge": [
+            {
+                "displayName": "Applied Energistics 2",
+                "projectId": "223794",
+                "fileId": "6488853"
+            },
+            {
+                "displayName": "GuideME",
+                "projectId": "1173950",
+                "fileId": "6488254"
+            }
+        ],
+        "modrinth": [
+        ]
+    }
+}

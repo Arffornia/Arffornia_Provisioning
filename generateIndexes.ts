@@ -19,7 +19,7 @@ async function generateIndexHandler(kind: string) {
 async function main() {
     const args = process.argv.slice(2);
 
-    const folders = args.length > 0 ? args : [ 'proxy', 'server' ];
+    const folders = args.length > 0 ? args : [ 'proxy', 'server', 'launcher' ];
 
     await Promise.all(
         folders.map((folder) => generateIndexHandler(folder))
