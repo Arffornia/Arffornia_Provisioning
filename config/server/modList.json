@@ -13,6 +13,10 @@
             }
         ],
         "modrinth": [
+            {
+                "displayName": "NeoForwarding",
+                "versionId": "tdpr4TRc"
+            }
         ]
     }
 }
