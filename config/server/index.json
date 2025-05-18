@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-05-17T17:39:46.151Z",
+  "generatedAt": "2025-05-18T15:09:41.944Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -8,7 +8,7 @@
     },
     {
       "path": "config/neoforwarding-server.toml",
-      "hash": "6c1543ba473f16902087cedd82211e28220b3878",
+      "hash": "9be1fd0e0f88e7a48bc3a624022a1156b5cbbefa",
       "override": true
     }
   ]
