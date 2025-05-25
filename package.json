@@ -1,5 +1,5 @@
 {
-  "name": "@the_gost_sniper/typescript_template",
+  "name": "@the_gost_sniper/arffornia_network",
   "version": "1.0.0",
   "scripts": {
     "test": "jest",
@@ -35,6 +35,6 @@
     "typescript": "^5.5.4"
   },
   "dependencies": {
-    "@arffornia/nexus_mods": "^1.0.4"
+    "@arffornia/nexus_mods": "^1.0.5"
   }
 }
