@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-06-09T06:20:03.409Z",
+  "generatedAt": "2025-06-09T06:35:57.505Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -9,11 +9,6 @@
     {
       "path": "config/neoforwarding-server.toml",
       "hash": "9be1fd0e0f88e7a48bc3a624022a1156b5cbbefa",
-      "override": true
-    },
-    {
-      "path": "mods/LuckPerms-NeoForge-5.5.2.jar",
-      "hash": "616b85d28bd403dda5f923e9fa347dd56bc12401",
       "override": true
     }
   ]

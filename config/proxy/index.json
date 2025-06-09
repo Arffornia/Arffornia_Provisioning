@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-06-09T06:20:03.407Z",
+  "generatedAt": "2025-06-09T06:35:57.504Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -9,11 +9,6 @@
     {
       "path": "forwarding.secret",
       "hash": "cfdd7f0466c5488c1113f5eefa076e9a7c96b5d2",
-      "override": true
-    },
-    {
-      "path": "plugins/LuckPerms-Velocity-5.5.2.jar",
-      "hash": "68e7920a81fa5abe74fd475169f3eb0db0b48187",
       "override": true
     },
     {
