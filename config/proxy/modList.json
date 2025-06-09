@@ -3,6 +3,10 @@
         "curseforge": [
         ],
         "modrinth": [
+            {
+                "displayName": "LuckPerms",
+                "versionId": "ACa3exrC"
+            }
         ]
     }
 }

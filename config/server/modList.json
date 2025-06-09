@@ -56,6 +56,10 @@
             {
                 "displayName": "NeoForwarding",
                 "versionId": "tdpr4TRc"
+            },
+            {
+                "displayName": "LuckPerms",
+                "versionId": "rnvg05YO"
             }
         ]
     }
