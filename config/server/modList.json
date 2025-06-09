@@ -10,6 +10,46 @@
                 "displayName": "GuideME",
                 "projectId": "1173950",
                 "fileId": "6488254"
+            },
+            {
+                "displayName": "FTB Essentials",
+                "projectId": "410811",
+                "fileId": "6179042"
+            },
+            {
+                "displayName": "Architectury API",
+                "projectId": "419699",
+                "fileId": "5786327"
+            },
+            {
+                "displayName": "FTB Chunks",
+                "projectId": "314906",
+                "fileId": "6504893"
+            },
+            {
+                "displayName": "FTB Library",
+                "projectId": "404465",
+                "fileId": "6466106"
+            },
+            {
+                "displayName": "FTB Teams",
+                "projectId": "404468",
+                "fileId": "6119437"
+            },
+            {
+                "displayName": "KubeJS",
+                "projectId": "238086",
+                "fileId": "5810100"
+            },
+            {
+                "displayName": "Rhino",
+                "projectId": "416294",
+                "fileId": "6184623"
+            },
+            {
+                "displayName": "",
+                "projectId": "",
+                "fileId": ""
             }
         ],
         "modrinth": [
