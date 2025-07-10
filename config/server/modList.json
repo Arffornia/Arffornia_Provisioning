@@ -45,16 +45,17 @@
                 "displayName": "Rhino",
                 "projectId": "416294",
                 "fileId": "6184623"
+            },
+            {
+                "displayName": "LuckPerms",
+                "projectId": "431733",
+                "fileId": "5971552"
             }
         ],
         "modrinth": [
             {
                 "displayName": "NeoForwarding",
                 "versionId": "tdpr4TRc"
-            },
-            {
-                "displayName": "LuckPerms",
-                "versionId": "MwOI6EAP"
             }
         ]
     }
