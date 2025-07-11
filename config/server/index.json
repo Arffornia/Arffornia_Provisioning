@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-07-10T08:36:17.093Z",
+  "generatedAt": "2025-07-11T09:01:15.629Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -9,6 +9,26 @@
     {
       "path": "config/neoforwarding-server.toml",
       "hash": "9be1fd0e0f88e7a48bc3a624022a1156b5cbbefa",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/monpack/lang/fr_fr.json",
+      "hash": "90d1a713d5b0f6f7b540bf4e98fc600930708b2a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/monpack/advancements/root.json",
+      "hash": "8c464c1fe1e05c640d737b82f02e183b13985d91",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/monpack/advancements/tech/mekanism_pipe_tier_1.json",
+      "hash": "0dbcbe07ee23eb2c8e9362a5cd5f43154b017af5",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/monpack/advancements/tech/mekanism_tier_1.json",
+      "hash": "320924ebc929d40ab843ae1dea345f58b46111b2",
       "override": true
     }
   ]
