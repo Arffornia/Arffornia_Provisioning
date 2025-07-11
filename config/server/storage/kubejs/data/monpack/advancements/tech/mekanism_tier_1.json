@@ -1,0 +1,12 @@
+{
+  "parent": "monpack:root",
+  "display": {
+    "icon": { "item": "mekanism:basic_control_circuit" },
+    "title": { "translate": "advancements.monpack.tech.mekanism_tier_1.title" },
+    "description": { "translate": "advancements.monpack.tech.mekanism_tier_1.description" },
+    "frame": "task"
+  },
+  "criteria": {
+    "impossible": { "trigger": "minecraft:impossible" }
+  }
+}

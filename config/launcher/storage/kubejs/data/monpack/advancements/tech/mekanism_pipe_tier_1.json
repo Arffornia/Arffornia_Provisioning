@@ -1,0 +1,12 @@
+{
+  "parent": "monpack:tech/mekanism_tier_1",
+  "display": {
+    "icon": { "item": "mekanism:basic_pressurized_tube" },
+    "title": { "translate": "advancements.monpack.tech.mekanism_pipe_tier_1.title" },
+    "description": { "translate": "advancements.monpack.tech.mekanism_pipe_tier_1.description" },
+    "frame": "task"
+  },
+  "criteria": {
+    "impossible": { "trigger": "minecraft:impossible" }
+  }
+}
