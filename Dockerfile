@@ -13,4 +13,4 @@ ENV BASE_URL="https://raw.githubusercontent.com/Arffornia/Arffornia_Network/refs
 ENV KIND="server"
 ENV MODS_DIR_NAME="mods"
 
-CMD ["sh", "-c", "node dist/configUpdater.js \"$INSTALL_BASE_PATH\" \"$BASE_URL\" \"$KIND\" \"$MODS_DIR_NAME\""]
+CMD ["node", "dist/configUpdater.js"]

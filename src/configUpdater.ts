@@ -40,16 +40,12 @@ const callback = {
 };
 
 async function main() {
-    const args = process.argv.slice(2);
+    const installBasePath = process.env.INSTALL_BASE_PATH || "/data";
+    const baseUrl = process.env.BASE_URL || "https://raw.githubusercontent.com/Arffornia/Arffornia_Network/refs/heads/main/";
+    const kind = process.env.KIND || "server";
+    const modsDirName = process.env.MODS_DIR_NAME || "mods";
 
-    if (args.length !== 4) {
-        console.info("Usage: installBasePath baseUrl kind modDirName");
-        exit(1);
-    }
-
-    const [ installBasePath, baseUrl, kind, modDirName ] = args;
-
-    await updateConfig(installBasePath, baseUrl, kind, modDirName);
+    await updateConfig(installBasePath, baseUrl, kind, modsDirName);
 }
 
 main();
