@@ -63,14 +63,13 @@
                 "versionId": "tdpr4TRc"
             }
         ],
-        "github": [
+        "github-releases": [
             {
                 "displayName": "Arffornia Mod",
                 "owner": "Arffornia",
                 "repoName": "Arffornia_Mods",
-                "groupId": "fr.thegostsniperfr.arffornia",
-                "artifactId": "arffornia",
-                "version": "1.0.0"
+                "tag": "latest",
+                "assetName": "arffornia-1.0.0.jar"
             }
         ]
     }
