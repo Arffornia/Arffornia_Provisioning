@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2025-07-21T06:22:05.297Z",
+  "generatedAt": "2025-07-29T18:14:30.091Z",
   "files": [
     {
       "path": "config/.gitkeep",
       "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "override": true
+    },
+    {
+      "path": "config/fancymenu/assets/background.png",
+      "hash": "b569d38a860a913424dde4bd1557c062650e74d7",
+      "override": true
+    },
+    {
+      "path": "config/fancymenu/assets/logo.png",
+      "hash": "3b592894adf0c9c5efd30505dd1e66d64757b511",
+      "override": true
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "hash": "ac89850ef71e794f922e5f2454c12268fd8dd339",
+      "override": true
+    },
+    {
+      "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+      "hash": "dffca85795b730b7e64c714b06ac6413cc08f433",
+      "override": true
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "hash": "adc605cf794120522f34a402a4301baf4e59350d",
+      "override": true
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "hash": "d23b16c9ef7441f25e5061f19d5bf8bd73d5e211",
       "override": true
     },
     {
