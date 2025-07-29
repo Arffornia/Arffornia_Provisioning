@@ -45,6 +45,26 @@
                 "displayName": "Rhino",
                 "projectId": "416294",
                 "fileId": "6184623"
+            },
+            {
+                "displayName": "Drippy Loading Screen",
+                "projectId": "511770",
+                "fileId": "6412226"
+            },
+            {
+                "displayName": "FancyMenu",
+                "projectId": "367706",
+                "fileId": "6785152"
+            },
+            {
+                "displayName": "Konkrete",
+                "projectId": "410295",
+                "fileId": "5453385"
+            },
+            {
+                "displayName": "Melody",
+                "projectId": "938643",
+                "fileId": "5453382"
             }
         ],
         "modrinth": [
