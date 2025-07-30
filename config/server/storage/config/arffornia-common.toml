@@ -1,0 +1,15 @@
+#Database configuration for the Arffornia web shop integration
+[database]
+	host = "postgres-cluster.postgres.svc.cluster.local"
+	port = 5432
+	database = "arffornia"
+	username = "${CFG_DB_USERNAME}"
+	password = "${CFG_DB_PASSWORD}"
+#Configuration for the Arffornia API connection
+[api]
+	#The base URL for the Arffornia API.
+	baseUrl = "https://arffornia.com/api"
+	#The service account ID for API authentication.
+	serviceId = "${CFG_SVC_ID}"
+	#The service account secret for API authentication. This should be kept private.
+	serviceSecret = "${CFG_SVC_PASSWORD}"
