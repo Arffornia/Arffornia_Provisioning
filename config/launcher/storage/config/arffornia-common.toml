@@ -5,11 +5,12 @@
 	database = ""
 	username = ""
 	password = ""
+
 #Configuration for the Arffornia API connection
 [api]
 	#The base URL for the Arffornia API.
 	baseUrl = "https://arffornia.com/api"
-	#The service account ID for API authentication.
-	serviceId = ""
-	#The service account secret for API authentication. This should be kept private.
-	serviceSecret = ""
+	#The service account Client ID for API authentication.
+	clientId = ""
+	#The service account Client Secret for API authentication. This should be kept private.
+	clientSecret = ""

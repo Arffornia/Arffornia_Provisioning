@@ -5,11 +5,13 @@
 	database = "arffornia"
 	username = "${CFG_DB_USERNAME}"
 	password = "${CFG_DB_PASSWORD}"
+
 #Configuration for the Arffornia API connection
 [api]
 	#The base URL for the Arffornia API.
 	baseUrl = "https://arffornia.com/api"
-	#The service account ID for API authentication.
-	serviceId = "${CFG_SVC_ID}"
-	#The service account secret for API authentication. This should be kept private.
-	serviceSecret = "${CFG_SVC_PASSWORD}"
+	#The service account Client ID for API authentication.
+	clientId = "${CFG_SVC_ID}"
+	#The service account Client Secret for API authentication. This should be kept private.
+	clientSecret = "${CFG_SVC_PASSWORD}"
+
