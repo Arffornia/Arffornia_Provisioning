@@ -1,0 +1,15 @@
+#Database configuration for the Arffornia web shop integration
+[database]
+	host = ""
+	port = 5432
+	database = ""
+	username = ""
+	password = ""
+#Configuration for the Arffornia API connection
+[api]
+	#The base URL for the Arffornia API.
+	baseUrl = "https://arffornia.com/api"
+	#The service account ID for API authentication.
+	serviceId = ""
+	#The service account secret for API authentication. This should be kept private.
+	serviceSecret = ""
