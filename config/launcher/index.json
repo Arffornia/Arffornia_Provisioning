@@ -1,9 +1,14 @@
 {
-  "generatedAt": "2025-07-30T12:43:33.751Z",
+  "generatedAt": "2025-07-30T13:20:46.295Z",
   "files": [
     {
       "path": "config/.gitkeep",
       "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "override": true
+    },
+    {
+      "path": "config/arffornia-common.toml",
+      "hash": "347ec2e432699a15e7ad352ab076d87a2660a85f",
       "override": true
     },
     {
