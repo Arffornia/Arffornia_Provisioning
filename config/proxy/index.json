@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2025-07-30T12:03:35.061Z",
+  "generatedAt": "2025-07-30T12:42:06.896Z",
   "files": [
     {
-      "path": "forwarding.secret",
+      "path": "forwarding.secret.txt",
       "hash": "cfdd7f0466c5488c1113f5eefa076e9a7c96b5d2",
       "override": true
     },
