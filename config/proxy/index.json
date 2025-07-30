@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-07-30T14:56:07.218Z",
+  "generatedAt": "2025-07-30T15:10:05.133Z",
   "files": [
     {
       "path": "forwarding.secret.txt",
@@ -9,6 +9,11 @@
     {
       "path": "plugins/luckperms/config.yml",
       "hash": "2df0b3d6509304f944d2fa38522ac9e8829b5a96",
+      "override": true
+    },
+    {
+      "path": "server-icon.png",
+      "hash": "97db9b339c76ff29173efd55214a39dff40fa7bd",
       "override": true
     },
     {
