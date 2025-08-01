@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-01T13:28:26.671Z",
+  "generatedAt": "2025-08-01T14:33:47.668Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -14,6 +14,11 @@
     {
       "path": "config/bfcrmod-common.toml",
       "hash": "52dccaa3aa52f6f8fb6f2f5b0bbb15492fbc3ca1",
+      "override": true
+    },
+    {
+      "path": "config/luckperms/db-export.json.gz",
+      "hash": "cc769e7bd22cb7933b9f3c450fdcbbb7e05103db",
       "override": true
     },
     {
