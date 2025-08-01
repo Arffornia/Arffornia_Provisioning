@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-01T15:32:54.633Z",
+  "generatedAt": "2025-08-01T15:40:29.781Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -33,6 +33,11 @@
     },
     {
       "path": "data/world/ftbessentials/data.snbt",
+      "hash": "5ce84e9c4289af8b03d70ca14e80221d2f6f0924",
+      "override": true
+    },
+    {
+      "path": "world/ftbessentials/data.snbt",
       "hash": "5ce84e9c4289af8b03d70ca14e80221d2f6f0924",
       "override": true
     }
