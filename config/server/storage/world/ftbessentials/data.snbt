@@ -1,0 +1,45 @@
+{
+	warps: { }
+	mute_timeouts: { }
+	kits: {
+		Mage: {
+			cooldown: 0L
+			items: [{ count: 16, id: "minecraft:cooked_beef" }]
+		}
+		Artisan: {
+			cooldown: 0L
+			items: [{ count: 16, id: "minecraft:cooked_beef" }]
+		}
+		Apprenti-sorcier: {
+			cooldown: 0L
+			items: [{ count: 16, id: "minecraft:cooked_beef" }]
+		}
+		Archimage: {
+			cooldown: 0L
+			items: [{ count: 16, id: "minecraft:cooked_beef" }]
+		}
+		Architecte: {
+			cooldown: 0L
+			items: [{ count: 16, id: "minecraft:cooked_beef" }]
+		}
+		Ingenieur: {
+			cooldown: 0L
+			items: [{ count: 16, id: "minecraft:cooked_beef" }]
+		}
+		Eminence: {
+			cooldown: 0L
+			items: [{ count: 16, id: "minecraft:cooked_beef" }]
+		}
+		Maitre-Atelier: {
+			cooldown: 0L
+			items: [{ count: 16, id: "minecraft:cooked_beef" }]
+		}
+		Journalier: {
+			cooldown: 86400L
+			items: [
+				{ count: 16, id: "minecraft:cooked_beef" }
+				{ count: 1, id: "minecraft:water_bucket" }
+			]
+		}
+	}
+}
