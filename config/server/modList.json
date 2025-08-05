@@ -55,6 +55,11 @@
                 "displayName": "Better Forge Chat Reborn",
                 "projectId": "1152077",
                 "fileId": "6094982"
+            },
+            {
+                "displayName": "Prometheus Exporter",
+                "projectId": "351938",
+                "fileId": "5657655"
             }
         ],
         "modrinth": [
