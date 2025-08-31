@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-05T05:47:39.056Z",
+  "generatedAt": "2025-08-31T13:50:00.320Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -32,8 +32,1748 @@
       "override": true
     },
     {
-      "path": "data/world/ftbessentials/data.snbt",
-      "hash": "5ce84e9c4289af8b03d70ca14e80221d2f6f0924",
+      "path": "defaultconfigs/ftbchunks/client-config.snbt",
+      "hash": "7b0af25f8dbfaaa8ae37b312a5b787c8f2134f65",
+      "override": true
+    },
+    {
+      "path": "defaultconfigs/ftbchunks/ftbchunks-world.snbt",
+      "hash": "b16a1a908466f2a470394754c28a1a9867bb341f",
+      "override": true
+    },
+    {
+      "path": "defaultconfigs/ftbessentials-server.snbt",
+      "hash": "bdcde9010afcd0802b06b4b781a9d63efcd0efbd",
+      "override": true
+    },
+    {
+      "path": "defaultconfigs/ftblibrary/ftblibrary-client.snbt",
+      "hash": "a8b3e358ec5d908edd730340091ced04a3373edb",
+      "override": true
+    },
+    {
+      "path": "defaultconfigs/ftbpc/ftbpc-client.snbt",
+      "hash": "02e1eecf6122e9ac24fd6df3e7a0a03f15080375",
+      "override": true
+    },
+    {
+      "path": "defaultconfigs/ftbpc/ftbpc-common.snbt",
+      "hash": "a483d445ca0beb7d99a22a078f25f1d924ea7c0a",
+      "override": true
+    },
+    {
+      "path": "defaultconfigs/ftbpc/ftbpc-server.snbt",
+      "hash": "da0eaa78b3a78ec1112606da4d559ad7f9b4d10b",
+      "override": true
+    },
+    {
+      "path": "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt",
+      "hash": "21b37eb5e59104ea64b232af7be92ef00b9fc4cc",
+      "override": true
+    },
+    {
+      "path": "kubejs/README.txt",
+      "hash": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/functionalstorage/lang/en_us.json",
+      "hash": "7777823086eb8837578fd3b6eb3655ee4dcb45da",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/ae2.png",
+      "hash": "ee2af198b72d6c334db5e541565d66f12858a0d8",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/mars.png",
+      "hash": "0a950077f159240bd8a8131b703761c67101ce20",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/menu.png",
+      "hash": "dd5b09f14614e901a6b55dd8dc5e1d538a9ee6fc",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/mercury.png",
+      "hash": "cb04ea5b4038cd2c07e56e12550aaec197a7cfa3",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/mining.png",
+      "hash": "364756f6988fee521c0c662c5a52033b3cf5d565",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/mining_end.png",
+      "hash": "6672b743809b3ae57092672db9466ff2a193292a",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/mining_nether.png",
+      "hash": "7f64965e3738710733ab97583f1bb86694a5e413",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/moon.png",
+      "hash": "35d6853ddd431a50d0d69a47be668695ddacc503",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/overworld.png",
+      "hash": "551e6c1f280a646a039b49757a7cff28e6366392",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/the_end.png",
+      "hash": "c0b79093813c6f018637c9d5e10b7abec428ce9e",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/the_nether.png",
+      "hash": "28960552e96b2c7ccd980ee99311b7c06ef3b997",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/venus.png",
+      "hash": "b0252def900d3d5d7da76f20842cb4884fd3c613",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/void.png",
+      "hash": "1348e7791c081954324be15a7ee72eb7ab50cba7",
+      "override": true
+    },
+    {
+      "path": "kubejs/client_scripts/01_sdrp.js",
+      "hash": "cef2aed7d6fc760b5b99e62ce27de553cf07f246",
+      "override": true
+    },
+    {
+      "path": "kubejs/client_scripts/03_tooltips.js",
+      "hash": "73a65816f28a59d0b6ff64a202974ee897778d02",
+      "override": true
+    },
+    {
+      "path": "kubejs/config/client.json",
+      "hash": "d1babee139a1ef572dd6412054cb87500918c6e7",
+      "override": true
+    },
+    {
+      "path": "kubejs/config/common.json",
+      "hash": "72bc0862d970e44dd5075bef3e74110f69d65a7d",
+      "override": true
+    },
+    {
+      "path": "kubejs/config/web_server.json",
+      "hash": "4ec2efe235a9c6febaff5bdfdb0078a569ba5de7",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/bagofyurting/recipe/bag_of_yurting.json",
+      "hash": "725ae621f196e0f9b1b4e8fda6079f62c171fcf9",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/loot_table/blocks/deepslate_zinc_ore.json",
+      "hash": "058ccd39bb314eceb1912dbe3ad6bc3f5885f0a8",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/loot_table/blocks/zinc_ore.json",
+      "hash": "f62f35060d35a324448b962d684316acdcacf81c",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/crushing/asurine.json",
+      "hash": "4a68cad50104eee0e5e51d8004431a832f0ec84e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/crushing/asurine_recycling.json",
+      "hash": "21c9376ee685550fc80b1a49b04ade8eefb662ed",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/crushing/deepslate_zinc_ore.json",
+      "hash": "dff8a1731f59ccad056b346102d1e1d014b843f3",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/crushing/obsidian.json",
+      "hash": "6108fd0ca8200c8fb343fd7175e97f3bd8c9f428",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/crushing/tuff.json",
+      "hash": "0ab9813ad462b70414be027cf949fec8b89fc57d",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/crushing/tuff_recycling.json",
+      "hash": "6bc0ffeaa7b4dc63753badc3370f3b592c5d236a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/crushing/veridium.json",
+      "hash": "1c3253668ebb0251302ab94c70bc84f2cf5db9df",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/crushing/veridium_recycling.json",
+      "hash": "df5ca74dd76ff60deaaddde3aa1dd3c2c5b247bd",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/crushing/zinc_ore.json",
+      "hash": "91e3dd9f666ac13d3f6205229cec9ecbd5a33932",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/milling/wheat.json",
+      "hash": "e048e8addb968d098ef8effe37cd7d5a287fc17a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/mixing/andesite_alloy.json",
+      "hash": "bd145b6ed028c83328a53afbc9a1e7d6f65d84c7",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/mixing/andesite_alloy_from_zinc.json",
+      "hash": "6bff8347781f75426c514b92a559d5f8927bbb29",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/mixing/brass_ingot.json",
+      "hash": "edd94bd7bd206f1c2c6a9924f803197e7758da12",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/pressing/brass_ingot.json",
+      "hash": "e82868ce764fc607ab48e8c6980e100bc58c49c0",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/pressing/copper_ingot.json",
+      "hash": "647f9620838c778f92516e6bef227a302b023663",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/pressing/gold_ingot.json",
+      "hash": "9ef59c187720da66428d418d91fefe73753dcde0",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/pressing/iron_ingot.json",
+      "hash": "9fe629b2b49114937d219718b497a8d5c63ce6ef",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/sequenced_assembly/precision_mechanism.json",
+      "hash": "aa24c3c33200a5fab71f804b2c957cb77608e364",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/splashing/crushed_raw_copper.json",
+      "hash": "bb32a8bda6ab0821085e234c0f0e502790c79e22",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/recipe/splashing/crushed_raw_zinc.json",
+      "hash": "d558afe42a15f54c0673522ec1ed6f09aee56736",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/worldgen/configured_feature/zinc_ore.json",
+      "hash": "66d93b274fd0c5518f31a25a0d0a55b6fd39e9fa",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/create/worldgen/placed_feature/zinc_ore.json",
+      "hash": "6b7699eda33530534f195054b51ecddc1ea2934e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/enchantableblocks/tags/enchantment/applicable/beehive.json",
+      "hash": "51a3e4783ba38d58b0791adfbf1c5009b6ddff6e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/enchantableblocks/tags/enchantment/applicable/blast_furnace.json",
+      "hash": "41a75887faa2653095f977d4c1dba8771175bef5",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/enchantableblocks/tags/enchantment/applicable/campfire.json",
+      "hash": "88c32ab5c41611682f6514472138846c825a6752",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/enchantableblocks/tags/enchantment/applicable/crafting_table.json",
+      "hash": "594318fa9c052c6be5fe3ede7a71c6f3065af12b",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/enchantableblocks/tags/enchantment/applicable/furnace.json",
+      "hash": "af99aa314ef3ae94e29bd12150aedb78f32e9da0",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/enchantableblocks/tags/enchantment/applicable/smoker.json",
+      "hash": "af99aa314ef3ae94e29bd12150aedb78f32e9da0",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/enderio/recipe/alloy_smelting/cake_base.json",
+      "hash": "4841a0ecf3e94ce00d7f8bf96b0f76b43e994545",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/enderio/recipe/alloy_smelting/cookie.json",
+      "hash": "09df932b641f69d5b324ef02d8b5edc6315e37d9",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/enderio/recipe/fire_crafting/bedrock_infinity.json",
+      "hash": "02e71c953921e24213a0eabd9218bb6d1a6c3f82",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/enderio/recipe/fire_crafting/deepslate_infinity.json",
+      "hash": "54fbfc6970e76e9cdabc1871546255042074a452",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/enderio/recipe/sag_milling/clay.json",
+      "hash": "82af0656be4705eb7225afcdff42a1a31c1eb95a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/enderio/recipe/sag_milling/redstone_ore.json",
+      "hash": "318e044a301c8c5e5f551d0ab9854e30a44f617c",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/enderio/recipe/sag_milling/wheat.json",
+      "hash": "ff5d284516207c5ec6f0bc654867ac868929f9c1",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/fargostalismans/recipe/blocks/crucible_of_the_cosmos.json",
+      "hash": "0b56d40c0630a74abec5398e01c6cd83263feddc",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/industrialforegoing/recipe/crusher/sand.json",
+      "hash": "5076c25c1011e9d64a804913684b970a5cd81288",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/mekanism/tags/block/cardboard_blacklist.json",
+      "hash": "bcd70bf4894f088f134212db080c7ce351fd745f",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/neoforge/data_maps/item/compostables.json",
+      "hash": "f4c5a733380d3c0f6d5a78449153a6f49ad7ae0e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/centrifuge/compat/clumpwet/crushed_uranium.json",
+      "hash": "dff8a1731f59ccad056b346102d1e1d014b843f3",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/centrifuge/compat/create/clump/zinc.json",
+      "hash": "2da290c606a0fe7bd22bce9449ab3b38b0f69a3b",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/centrifuge/fluid/compat/create/clump/zinc.json",
+      "hash": "f98d2ae084abc23cc220d2a8dabd7049c009d9b9",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/centrifuge/fluid/compat/create/dough.json",
+      "hash": "7716ffbe0575ad726063e3eead3e752025b05fde",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/foundry/alloy/compat/create/brass.json",
+      "hash": "0bb1adeccfc67c376bf048922509acc7ba114bc0",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/grinder/coal.json",
+      "hash": "7830749333af9719052f2264f2513ac67d1b8b2c",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/grinder/compat/create/ore/zinc.json",
+      "hash": "25a461ac9fb820e1b7d7d301e5c07dc95eb202ac",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/grinder/compat/create/raw/zinc.json",
+      "hash": "44d7f07b523f7bd04d91429b389c9d547c5bd6ba",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/grinder/quartz.json",
+      "hash": "4c19001f4e4e936f4a600cc4d1bd9a426f4e183a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/grinder/raw/nickel.json",
+      "hash": "6d45ac1dd50f494343d62013692e9a356f780daa",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/pulverizer/coal.json",
+      "hash": "01696fc2da19b4c5921f58e5a5607874af7b1bd6",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/pulverizer/compat/create/ore/zinc.json",
+      "hash": "dff8a1731f59ccad056b346102d1e1d014b843f3",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/pulverizer/ore/nickel.json",
+      "hash": "156b43830f84deaba9c75087abd73baf4e1a076e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/pulverizer/quartz.json",
+      "hash": "44b4931e94a4c075c37016c574bb01a3c116a8f8",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/pulverizer/recycle/2_quartz_dust.json",
+      "hash": "575ab522d03249422ac3bec8e9550abcb8364f70",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/pulverizer/recycle/4_quartz_dust.json",
+      "hash": "2da4d510b1e585556225a01f3a980436aa0a040d",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/raw_nickel_blockblock.json",
+      "hash": "08708d0a48b5d844b24c26ffcb1791b75d50b161",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/recipe/raw_nickel_blockblockinv.json",
+      "hash": "9be800c2737c7e9f23b61d543c2c5a141f8eaa16",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/oritech/worldgen/configured_feature/uranium_patch.json",
+      "hash": "ced3721a3bc502de95fa8ad6caeeb0e4625cd6e2",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/loot_table/blocks/deepslate_sulfur_ore.json",
+      "hash": "36b6ccd02f8efeccc4b35c77c22cb9b62ec0da03",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/loot_table/blocks/sulfur_ore.json",
+      "hash": "5a38ad9e2ad5cef1d8580a22ba0b0058da6b9048",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_bucket.json",
+      "hash": "774a2cf21b10df03c2a983b1e132595519678656",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_iron_axe.json",
+      "hash": "cf9277d5b13730060c26638d9a7a7c8d95cbf003",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_iron_boots.json",
+      "hash": "6a26efda2cfea81b028ff1e3b3caa47f076d15c7",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_iron_chestplate.json",
+      "hash": "b222ab6c70c6e201f2e1b737a4e1b64f8e3ab12a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_iron_crowbar.json",
+      "hash": "273815dca7a8c560f49b61e8bbfcd930a22140e7",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_iron_door.json",
+      "hash": "e0cad4671185ee7bd97c967cf79c360337f66184",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_iron_helmet.json",
+      "hash": "979243349ec5cf5b4a7f64572066b522d56eaa4e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_iron_hoe.json",
+      "hash": "960b4316972878b352326b484d309a1dfd21b8fc",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_iron_horse_armor.json",
+      "hash": "71f03b1fd2390edf32fcb863a72478ba89a718c5",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_iron_ingot.json",
+      "hash": "26cfe86bc90ba5b59df0664721992318e2b1d2f2",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_iron_leggings.json",
+      "hash": "355cb2d735319bdbc1876716ff6c2adb4e04e7cf",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_iron_pickaxe.json",
+      "hash": "c7512d17142cc82680a988d57f0ae9705a8d22c4",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_iron_shovel.json",
+      "hash": "6a99dd7d7e82ff597f353b880fd8ca3e01ac428c",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_iron_sword.json",
+      "hash": "65aed3b64314defad3c7960db39dac0dba20e1e3",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_iron_trapdoor.json",
+      "hash": "d55b202e2b1886c7f6b2b8adf5d2419507eed0c4",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_shears.json",
+      "hash": "8c27d2e664cb26a05509e43e4470dc44867da020",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_steel_axe.json",
+      "hash": "01b705c869924c0a3f93d7f37729ebd241e0842a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_steel_block.json",
+      "hash": "c2d5ffc0ba8ab66e9ddc9a062d463043a401da23",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_steel_boots.json",
+      "hash": "c59230cb3cbf90622e23d67953d81f18e44d603c",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_steel_chestplate.json",
+      "hash": "1781ece57515a1cc628d412921161ed715c8da18",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_steel_helmet.json",
+      "hash": "bbdf53a65675edc364a5c5abcbf3ed6066592724",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_steel_hoe.json",
+      "hash": "f7d2ed184fd533e9bb47471ea8ca9e2ba5c5e4ed",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_steel_leggings.json",
+      "hash": "04722e43fc15427e1b70aa73ef796ccef07a19e9",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_steel_pickaxe.json",
+      "hash": "901e55a208bb4fa956c49097de388f6b16f33c0f",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_steel_shears.json",
+      "hash": "27952e77bc4e5e172839783828e350a18a16ded3",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/blast_furnace/blasting_steel_sword.json",
+      "hash": "880e55136b609517d3ca7145a40194826d6af701",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/coke_oven/charcoal.json",
+      "hash": "90d60daf105ef95cb1ccabb4df23a66a07c6c9f8",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/coke_oven/coal_coke.json",
+      "hash": "54ae13dcb30dcfb8dc8cc49f3b7469282e4979e2",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/coke_oven/coal_coke_block.json",
+      "hash": "5aaf6553637c0c8b4a69f056cdc9de68989530bb",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_abyssal_brick_slab.json",
+      "hash": "92c3a9ecd6727da75bc1782302f785c0fe97d56a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_abyssal_brick_stairs.json",
+      "hash": "b96a4ed826b3d48cc01b4356727aff8f82410e5e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_amethyst_block.json",
+      "hash": "1ba8a0ac8c37ce59a62b1896ac7ebb087605991e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_blast_furnace_bricks.json",
+      "hash": "d7e8df8dd71697a3c58883be6749b0752aea92c1",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_blaze_rod.json",
+      "hash": "122e89f4d16bcf44b8c4b52d96fdf70eeb27fa4d",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_bone.json",
+      "hash": "487dfe4e004f9738f86098caf64729d7b5a5920e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_brick_slab.json",
+      "hash": "933212e5d1460f9f886253142df6f0bfe8501fce",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_brick_stairs.json",
+      "hash": "a0710603154c6c15ccd40177c42ea9cc7f7f2daa",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_bricks.json",
+      "hash": "30a8c4a1bf58771c7a947c9db8d3dedcdfc0d420",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_charcoal.json",
+      "hash": "efeaf92c181f027f3f5c3d973b4073592d63bc0f",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_clay.json",
+      "hash": "0739ce4de7bcf5184b2fa4d0ae444e68b2ad8ba0",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_coal.json",
+      "hash": "6ea3f7fe1678529053dff0dfe22765ccb9ffa7a7",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_coal_block.json",
+      "hash": "8b4c0b60ddc38a7ae4fdc434639347e3a1dcf8e3",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_cobblestone.json",
+      "hash": "f0af1a006c82b8eb7aa7668d7fcb7ec6e9eb4b6a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_cobblestone_slab.json",
+      "hash": "c3d24ef1f9bdf365ec6fb2cfb6f06be0cb3e90d9",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_cobblestone_stairs.json",
+      "hash": "054d639ab6c0c723f5c2792ad308b3afdaa73f18",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_coke_oven_bricks.json",
+      "hash": "6bf40dba8ea69f29e7d9fa08152619e5968e606a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_crushed_obsidian.json",
+      "hash": "5d43db909626540579f1236c18e6c33f382da198",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_dark_prismarine.json",
+      "hash": "b9dfa7460aa19cd4ccd69967947282ffeace635c",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_ender_pearl.json",
+      "hash": "fda338dfa5790ca0dbf14e41ac15511ac4f6e450",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_firestone_ore.json",
+      "hash": "7a4d85e24d007adab377af81e171ce2b0778d019",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_glowstone.json",
+      "hash": "e586bd39adc65238d4bc3848f706e3c6606f8e70",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_gravel.json",
+      "hash": "eca49df37436b11cdaf72de63c3fbf7662bb56f9",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_ice.json",
+      "hash": "5dfa3e7878b5594c77ce1ec151f3a179621c085b",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_lapis_lazuli.json",
+      "hash": "0f9c20e2ce85ad164324b640121149a9f53a6a40",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_mossy_cobblestone.json",
+      "hash": "3b5766b3f9a774a5d8b39038bb7c86106da9104b",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_nether_brick_fence.json",
+      "hash": "2f7bcabd1542b3a68031de56925b8a80d22bf4cf",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_nether_brick_stairs.json",
+      "hash": "558ec92499f197e7e6603bb0781d958078a2327f",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_nether_wart_block.json",
+      "hash": "4c77a81b4f0ccd3961c608c4ee6bc66fae1fbe47",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_netherite_ingot.json",
+      "hash": "988a876dd24469cf57b288d6f1309f2b4d43f014",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_obsidian.json",
+      "hash": "5f1e1a6b0564d665614e3484951ca8bbe2a93e50",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_personal_world_spike.json",
+      "hash": "6dd8d00170c9c451f18b8d19754bb5f02c8579d3",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_prismarine.json",
+      "hash": "fbcaaa29c7abfbde4497d5c6212b74da51fd7ea8",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_prismarine_bricks.json",
+      "hash": "7e15ecd8b0a449678df0e889d43cc130b79a0a0c",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_quarried_brick_slab.json",
+      "hash": "c87c91053aa3b64948e40596676ae26b93e3922e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_quarried_brick_stairs.json",
+      "hash": "c4aa7256182e5507d7d5346b511056e4af69c654",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_quartz_block.json",
+      "hash": "00795a37a79f57f2a42db005ef869f5366d8020a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_raw_gold_block.json",
+      "hash": "7243a4bb90a3e0f45ade73bdf585a880d6cd1f83",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_raw_iron_block.json",
+      "hash": "307cb532648193a2f363508834ce4adc103a14fd",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_redstone_lamp.json",
+      "hash": "222ec9c9d807aa5568980ae4e8aa7695efcfbf2f",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_sandstone_slab.json",
+      "hash": "ab5acb72330febbab3d322fcb59218c6ae4b7169",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_stone_brick_stairs.json",
+      "hash": "211864162a72d732fc579bafbd35b66ecae5af33",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_stone_slab.json",
+      "hash": "a767edae3ac1f73d14a3224da3e2145505d7b1c8",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_abyssal.json",
+      "hash": "cdad479806267c1560720c60e7a01b8f2d0c43f0",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_coal_coke.json",
+      "hash": "4259e5eb0d7ac85a08c54bdfa5e09fb7e28b5244",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_gems_diamond.json",
+      "hash": "1546f60379019b72d47f8af8119983da21899c9a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_gems_emerald.json",
+      "hash": "e7a5dae9b0bbd56369b6e73d080df655ca05a310",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_gems_quartz.json",
+      "hash": "7693793bcf24983c4b2f2167a137b69ec55cfb35",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ingots_bronze.json",
+      "hash": "c2e07dbc59c8fa6e7f28a07ef2c455c05c08d7b6",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ingots_copper.json",
+      "hash": "56857a9b4cf5859baa9e17398a67d360dbc4502e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ingots_gold.json",
+      "hash": "f95560ab346de953ef3196ae8cea6e1de8ba398f",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ingots_iron.json",
+      "hash": "b15997e656448c2565f2f5362316cbb38f7a306a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ingots_lead.json",
+      "hash": "3c48f41da08585759864620e600fe192c8a1cb3b",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ingots_nickel.json",
+      "hash": "3750e166acb32f7ac1f3ffae5770f4f7b8fb4534",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ingots_silver.json",
+      "hash": "38d1d51cea2b5551f95847db35e6facfab3f411d",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ingots_steel.json",
+      "hash": "6925306cba05165155a010613771b4c225acb5db",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ingots_tin.json",
+      "hash": "77a226e3d51f6c769fd6970d812c80decd6c9c68",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ores_coal.json",
+      "hash": "3f74b3b17f0674788d4a28022f1342b531a09ff7",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ores_copper.json",
+      "hash": "9214d55043d88d590ff1510e3ac980ed73a83c51",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ores_diamond.json",
+      "hash": "9b0860f1fdecfd6d161a56c57602d767bee66f15",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ores_emerald.json",
+      "hash": "e7efe26260a1e9dc014996924f21c9bf67c1c267",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ores_gold.json",
+      "hash": "dfd80cc66a49179a27ffc4d656e0e1c8f3761eb7",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ores_iron.json",
+      "hash": "fef25201fcbb19e0725aaf5cdb776c087ba17ee2",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ores_lapis.json",
+      "hash": "aafd3367c2c9b33cc4f6aaf75e6f1fed3ad109d9",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ores_lead.json",
+      "hash": "9ef570ae258016dbbea97fe408f90f029d94555b",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ores_nickel.json",
+      "hash": "415a251070f29d7acd50050a4b87eb00c8283937",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ores_quartz.json",
+      "hash": "01a32a61f1c7a5aae2278f69b819b94fb7fbb95e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ores_redstone.json",
+      "hash": "3fe6bc9ad41503cd5662591a47dbabcf0c101e8e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ores_saltpeter.json",
+      "hash": "d532a5a30afb2bb575315e4846509ebce4fba98b",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ores_silver.json",
+      "hash": "847693cce54277c858ae6e97540d8718c4bd18a2",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_ores_sulfur.json",
+      "hash": "00d1de7f359c2fcaf0cc48e077f569e84225239d",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_quarried.json",
+      "hash": "45fd2b398e5984057f4b0b29657e6456a4e37f7d",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_raw_materials_copper.json",
+      "hash": "6e97bc0b8dded64835ea45af88f0cf569186ae89",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_raw_materials_iron.json",
+      "hash": "92cc38d2050dafef5e3428b99c48a325f76f8729",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_raw_materials_nickel.json",
+      "hash": "d1ec7538566d9d7c0d867cc49325b9e893760732",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_raw_materials_silver.json",
+      "hash": "0c0d1bac8d302cb47116540a45758f4d14dcc1b5",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_sandstone_blocks.json",
+      "hash": "189eef69d6a0686707a48693ee1bfec6f344dbc3",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_stone_bricks.json",
+      "hash": "c7d8511a300ab3963c8e40d45e5f3c4685bf5184",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_stones.json",
+      "hash": "39ed8b53c12ee773b6a520919417b1bee29b6f63",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_storage_blocks_raw_copper.json",
+      "hash": "9d644f90691f4de88a97e7c93046c64b7833d5d8",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_storage_blocks_raw_gold.json",
+      "hash": "df857965b557c506d4206f332174d29e787fe273",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_storage_blocks_raw_iron.json",
+      "hash": "ae2f6beec48732f1c257153f7b4d91e12870c305",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_storage_blocks_raw_lead.json",
+      "hash": "c07201aba9db20b107ddf2680f7d3366e88e6b2a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_storage_blocks_raw_nickel.json",
+      "hash": "2b2ab6054833a022f4eb88dcffd4d6978e45f469",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_storage_blocks_raw_silver.json",
+      "hash": "070b4fdc3a2b9bfb7359e626fea75875dc9f558e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_tags_wool.json",
+      "hash": "b392bae0dbdff62a54d6f8b376d8b2d01ba24c60",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/crusher/crushing_zinc_silver_battery_empty.json",
+      "hash": "41099561a6c49132824e41e8da512828d8f9c526",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/advanced_rail.json",
+      "hash": "d369b227b53cb6ee3ddace449a6a5fa5d3fec243",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/black_post.json",
+      "hash": "3869411d96603ad3e7f7c6d8678bcea3e0981d81",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/brass_electrode.json",
+      "hash": "d639d60148a94abbc54b1bed42cbbf0895c4ec1e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/brass_plate.json",
+      "hash": "6fadb9f51f717df9319210c0ff5c0cf2a1f10a19",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/bronze_electrode.json",
+      "hash": "dd9a973d5df69a71ccb84e5d686bb8dbdcd478b2",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/bronze_plate.json",
+      "hash": "56cce53f20edba64fe0246c787ad270f878b2cd9",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/bronze_rail.json",
+      "hash": "559da87cda73a972adb0b46c059067a3aac7df65",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/bushing_gear_brass.json",
+      "hash": "a3e123a6d352e8f79232e08e38db85189c7be385",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/bushing_gear_bronze.json",
+      "hash": "f7619405a28f42635b263a25157f46877995ede9",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/carbon_electrode.json",
+      "hash": "07a0297be96001fe61c5fe394921e07cc913de41",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/charge_spool_large.json",
+      "hash": "5372ea1d58700ce249995d1d3339120207ae67fa",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/charge_spool_small.json",
+      "hash": "e4eaf8b44134fa9d0a6d6ef94bf16b0eb2dc0e87",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/copper_electric_rail.json",
+      "hash": "3b245ae9d6aeb008d86c2057e79f1abbfa31c646",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/copper_electrode.json",
+      "hash": "94b643702b6f155549e70122b7fb2bbe09d45014",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/copper_plate.json",
+      "hash": "323f4eb84fdd2a5f563e6d9a9122e2dfdcbba73b",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/electric_rail.json",
+      "hash": "4b48d18906dc232049b845761a35d65e18158833",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/gold_electrode.json",
+      "hash": "7bdfec7aa3d1cbe8535ea06ba00045f347b8c066",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/gold_plate.json",
+      "hash": "d3abd138b2930b5e24afa98e65750c2a550cd16f",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/invar_electrode.json",
+      "hash": "a49de115c2ba3fb271978548763f569a9f11b4ce",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/invar_plate.json",
+      "hash": "2ea59642b59dabd4b845f9e83dabd84381b9eb5c",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/invar_rail.json",
+      "hash": "66814f063570cd5e9da4d65f24ce5199ed7e8bda",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/invar_reinforced_rail.json",
+      "hash": "f2c6a757b47847e38f02dbcc63b6f503ffebafe9",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/iron_electrode.json",
+      "hash": "50a2953370b8c265c07f6245e3b5f52be962fe44",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/iron_plate.json",
+      "hash": "6cb6571f1fc2e8a92bb244f9036b3337d83b1b6b",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/lead_electrode.json",
+      "hash": "19d8ed299375c7bc609331f42733ea760b3e9553",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/lead_plate.json",
+      "hash": "a5f8566cae011f04f3f962134f4b381938edf013",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/nickel_electrode.json",
+      "hash": "704b9ed3453ef65669b36fe9664a3ad68fed63d3",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/nickel_plate.json",
+      "hash": "ecbd3e3b2bfcf61d6e63330678625fd3de170933",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/nickel_turbine_blade.json",
+      "hash": "27f08543a715b59e6102ee0fbf25ec2dc423ad45",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/rebar_bronze.json",
+      "hash": "472fcd30cead54a49bbdf1287796c1176d1f952c",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/rebar_invar.json",
+      "hash": "f0748fca5d72c2b00fee7a117c1f8b9c61d1e3e7",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/rebar_iron.json",
+      "hash": "0ce8153672266445c7fdd431bce219e130a5cc38",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/rebar_steel.json",
+      "hash": "660cd930253f02cf4f91b8ee2df2d6807934e307",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/silver_electrode.json",
+      "hash": "2be34d5062632310726437707609bc59cbba7157",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/silver_plate.json",
+      "hash": "32cdfb15c76150058a00512576539a9afe729a8e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/standard_high_speed_rail.json",
+      "hash": "d3951f13b7542a8107a54c9e4632719a15904148",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/standard_rail.json",
+      "hash": "817c808e1ba96ea2f0073a1b67a43379520c3be5",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/steel_electrode.json",
+      "hash": "95912dffe4bc56bc064d4b7267c77ba9ff4faed9",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/steel_plate.json",
+      "hash": "b53db1d2acd73ec0033116c33f737919f555073f",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/steel_rail.json",
+      "hash": "c7c4f6c41341d1db671976e1ee53fd1acd823426",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/steel_reinforced_rail.json",
+      "hash": "4f0477a49cf1fdd3cf74f11402ec20e2250da890",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/steel_turbine_blade.json",
+      "hash": "9b5dce772bd72ef621c2b587b0baec2bbf408587",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/tin_electrode.json",
+      "hash": "3f91930125bb43027a1955c4de43c79da1d34772",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/tin_plate.json",
+      "hash": "d2e49abd86784406a9af4cc06bbfa934f2739a7a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/track_parts_bronze_nugget.json",
+      "hash": "d6482c254d39b831b62cfd3221b724e853588b96",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/track_parts_iron_nugget.json",
+      "hash": "771c998c92ff909d806298cec3336616ac46211a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/track_parts_steel_nugget.json",
+      "hash": "b0b85cfe8fa458301325cb69d7a4cfe2a02d37be",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/zinc_electrode.json",
+      "hash": "669e0387ea0334492d1de1e7e7121ae5781d76a6",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/recipe/rolling/zinc_plate.json",
+      "hash": "88de042d5019971122fcc1ac59ed6b4e17ec2d31",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/worldgen/placed_feature/firestone.json",
+      "hash": "be63e5fc54cb645495595985aa69c2aad8ffec76",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/worldgen/placed_feature/lead_ore.json",
+      "hash": "e403746a3f98d74406d33f94c28860bbf1a7067e",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/worldgen/placed_feature/nickel_ore_middle.json",
+      "hash": "4ec0af7fec708b193fca6d2c87d0e2ae9225a719",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/worldgen/placed_feature/nickel_ore_small.json",
+      "hash": "c146c6e7d5c8abc5fbc8d602fe2e16d8129f628f",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/worldgen/placed_feature/nickel_ore_upper.json",
+      "hash": "cde6ba74c39783db1a26c6038fab3d4607f31ab6",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/worldgen/placed_feature/quarried_stone.json",
+      "hash": "6e1c31e3332db1a11a73056aba830065c53a09e8",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/worldgen/placed_feature/saltpeter.json",
+      "hash": "53ac3c1b34599c7fc86d045afc0f70d889c309f0",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/worldgen/placed_feature/silver_ore.json",
+      "hash": "85d50817055589450021f02ee1161cd6ba527e6d",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/worldgen/placed_feature/silver_ore_lower.json",
+      "hash": "d813b7bd12a17422c5a84c9c4a69c14880e3ff0f",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/worldgen/placed_feature/sulfur_ore_lower.json",
+      "hash": "e1e79bda736bb9c86cb01f0d792eebcaed62c5f5",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/worldgen/placed_feature/sulfur_ore_upper.json",
+      "hash": "e51f07523b15de8fbd5a18ffe47d07ad47e4edaf",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/worldgen/placed_feature/tin_ore_large.json",
+      "hash": "de0bdb6495eb16f54e4a07a8947cf1d9b04edbb7",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/worldgen/placed_feature/tin_ore_small.json",
+      "hash": "52d2baf2410702d2270450ad6bdab33183b921bc",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/railcraft/worldgen/placed_feature/zinc_ore.json",
+      "hash": "cd761e1dd22bba54411e81e8314541563b012e76",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/solargeneration/recipe/solar_core_advanced.json",
+      "hash": "e9ce96fadad7fa87c11a95039aaa26906eb5fdad",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/solargeneration/recipe/solar_core_leadstone.json",
+      "hash": "f23ee9439106dc7b401989a14ae33f4195c45265",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/solargeneration/recipe/solar_core_redstone.json",
+      "hash": "b8b2497292d8130d17ce6257d4de76224adb42c9",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/solargeneration/recipe/solar_core_resonant.json",
+      "hash": "07f10ba811570929e85de05fa0348c8bfc456309",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/solargeneration/recipe/solar_core_signalum.json",
+      "hash": "e7c5c0958831778c5e4fb1804b2e19a050920c89",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/solargeneration/recipe/solar_core_ultimate.json",
+      "hash": "edeed50be77f49a9b95c33a9ae6e1fe0aec017a9",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/big_oxygen_tank.json",
+      "hash": "1db51cf6f08a47cdb62d4f7b6ed601fd1c5918c0",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/blue_can.json",
+      "hash": "32feab0087415eb84f5d06d35cb1f2af01b3ead4",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/cable.json",
+      "hash": "1bb7bace38f0dc062878be942bf12fbe83b9ba23",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/coal_generator.json",
+      "hash": "3b96e70fae8dedc98fdd7f2b93e12831b791f8eb",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/engine_fan.json",
+      "hash": "f31933764556d13f96da2e08dc0617945f27aa6c",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/flag.json",
+      "hash": "7d320f3e417fe1070a021c1a604cccd11067c728",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/fuel_refinery.json",
+      "hash": "1bd75ae78ae950beea2f205c10e6fec252b19cb2",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/radioactive_generator.json",
+      "hash": "6da17efae38dd9a30ca8ec95a52e8194bd752c28",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/radioactive_motor.json",
+      "hash": "f6801eee79cc440ea06b9e577e37834d6e8f7bcc",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/rocket_engine.json",
+      "hash": "b1525d0dd5b9c68623aa27f4950b11794157ffd4",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/rocket_fin.json",
+      "hash": "48ad378644c65cc1e540d50e657d28b0fd95d800",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/rocket_launch_pad.json",
+      "hash": "8350057668eacced95f7f329d2bdea11ef3a98f7",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/rocket_nose_cone.json",
+      "hash": "e3b525ec2779bc86dfe694b6dee7c8e5553df1a8",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/rocket_station_block.json",
+      "hash": "54bba2427eaa5a345ca414e6344503196c3245f6",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/solar_panel.json",
+      "hash": "bb608e324baee86d42895feb4ac2ad3989069cd6",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_block.json",
+      "hash": "b5b867d4358d04fa9bec1f246e74f435e7550990",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_ingot.json",
+      "hash": "b21525aeab422b993be0508ce3b94e53d20942fa",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_ingot_from_blasting_deepslate_steel_ore.json",
+      "hash": "6ad40260f923d3f68a550699d28905d244b18292",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_ingot_from_blasting_raw_steel_ingot.json",
+      "hash": "6b41ecb3cbb86d1919ce865a196beea54207376f",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_ingot_from_blasting_steel_ore.json",
+      "hash": "c24073ba1db400e4fc1659a4d972342f007161aa",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_ingot_from_smelting_deepslate_steel_ore.json",
+      "hash": "2789d9f1e139730620ed43dcf13d4f1d455b501f",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_ingot_from_smelting_raw_steel_ingot.json",
+      "hash": "02536b55d4722d5721bcc77b2c329ac3bb5cc93f",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_ingot_from_smelting_steel_ore.json",
+      "hash": "899d95ba8edbc8d5a46ede633f1ac5f8bfb85e4a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_nugget.json",
+      "hash": "b9c6a01d4b4a845906b1cead7b93078ea313d146",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_nugget_to_steel_ingot.json",
+      "hash": "5c33bccbae445aeb264cef8c329e3c8977dbd830",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_pillar.json",
+      "hash": "06a8e8818ea631337409a41c0fa8d0624ef93e1c",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_plating_block.json",
+      "hash": "345752b51887914aadac9685fb74566b43330145",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_plating_slab.json",
+      "hash": "72bef1d506c1a27232c15fc6d02d33a1f1a21fe6",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_plating_slab_to_vertical_slab.json",
+      "hash": "208a850e8a8076f572e2319590cd60869fc18193",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_plating_stairs.json",
+      "hash": "610ed5a5c9bc57a053964636e01b982d5918b2d1",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_slab.json",
+      "hash": "31e8ad9586d4a99be9467ce05c234c3595a5fc3b",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_slab_to_vertical_slab.json",
+      "hash": "f175b5fb3a0982b89518e03702be724265b330ee",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/steel_stairs.json",
+      "hash": "c16f9a80767ca918630518349643276a9bff630a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/uranium_block.json",
+      "hash": "3718994d39c4c24c5183853ddbe23eac8d9ec7d0",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/uranium_from_blasting.json",
+      "hash": "cfc82692cd90e719d662ed65088c511446d08b9c",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/uranium_from_smelting.json",
+      "hash": "9e2a656059d2f910dba925ea962dcf4326ddf11c",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/uranium_ingot.json",
+      "hash": "4543dd545177c96b6e211ff64e38e86eaf56c2e0",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/vacuumator.json",
+      "hash": "60acbac2dccb9106af7fe1d5a5ee1d0cb0f7479a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/vertical_steel_plating_slab.json",
+      "hash": "2bf2634d96fd24fd8f6caff078c0ba8f33bb7958",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/vertical_steel_plating_slab_to_slab.json",
+      "hash": "22d42117af3c1675ecf3a171aeb982cbf6c05e85",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/vertical_steel_slab.json",
+      "hash": "2ad7f421566a6bd6783a1cdc864e9b05eeb62d4a",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/vertical_steel_slab_to_slab.json",
+      "hash": "34b70418c2dfc0f93fe21b8ceabd7ff91e071163",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/recipe/misc/water_separator.json",
+      "hash": "4fffe1551ac428d0ae1a1bd6b8f96b2464615763",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/structure/meteor_6.nbt",
+      "hash": "ac35bcd087e7d3963d66aecc410802e3e835d9ef",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/tags/worldgen/biome/has_structure/meteor_biomes.json",
+      "hash": "2d6b4f6d4b0e04d21550c03c603ad16ef71e0c19",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/tags/worldgen/biome/has_structure/oil_well_biomes.json",
+      "hash": "9794cdd22a77daad69c7f6726c1625da08508817",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/worldgen/placed_feature/steel_ore.json",
+      "hash": "3aab843b9fc144a24ed877810a8da93045dfdb16",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/stellaris/worldgen/placed_feature/steel_ore_deepslate.json",
+      "hash": "38cbdf13e25e713ac3c67d133f3cf481a27fbea5",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/xycraft_machines/recipe/extractor/dragon_egg.json",
+      "hash": "536433b85ccb48abf384666ed60385c3df31aa81",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/xycraft_machines/recipe/extractor/enderio/grains_of_infinity.json",
+      "hash": "1503a488b81893ad02f1cc32862743074c5da312",
+      "override": true
+    },
+    {
+      "path": "kubejs/data/xycraft_machines/recipe/extractor/enderio/grains_of_infinity_campifre.json",
+      "hash": "b7435b61e975f1518c7a507b29f0216b840b07ea",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/01_general/01_tags.js",
+      "hash": "f71a6ba8f347da2d2137d7f0e3692a237c76087f",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/01_general/02_additions.js",
+      "hash": "8b9ee5694311d0bd300cc5545106e409e648614b",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/02_mod_specific/04_extreme_reactors.js",
+      "hash": "df1ad9545d6815140bbedd7113153b90ba43fc4d",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/02_mod_specific/05_handcrafted.js",
+      "hash": "39f09b132d3bdb9abcbe93b2a72f32f22d9f3975",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/02_mod_specific/06_integrated_dynamics.js",
+      "hash": "49cff67fa532c50b7f18c4894f2acd99ea64d3d6",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/02_mod_specific/07_railcraft.js",
+      "hash": "e09a16b4b6d188b9a3599e3e7f9d24d822c62c8b",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/02_mod_specific/08_stellaris.js",
+      "hash": "a8af8bd034a371c58c333b1cf5ee1af831656cde",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/02_mod_specific/09_thaumon.js",
+      "hash": "03a3ce9e3b3007b822344650f8ce13a24f54af61",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/02_mod_specific/10_xycraft.js",
+      "hash": "8c0e548c70b276d62d66c2e84641cba11c5b9160",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/02_mod_specific/11_comforts.js",
+      "hash": "3ce90c0378fd7f252ab9c0108017e8b4fe2c683c",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/02_mod_specific/12_twilight_forest.js",
+      "hash": "59c625ecb74d2a87cb33a4c44811126aab4b783a",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/02_mod_specific/13_create.js",
+      "hash": "d7ae0fc01b56b04397fa84d0ec3e424892158d9f",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/02_mod_specific/14_ae2_cables.js",
+      "hash": "6054b31eb8cd1231d4848af6e8c1e0463d363358",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/02_mod_specific/15_ftb_colors.js",
+      "hash": "09c8fcff96b97e2c361750356c22134d839b7fd2",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/02_mod_specific/16_oritech.js",
+      "hash": "a2131dc86b89a0444293fa93379999ac611ea56c",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/02_mod_specific/17_refined_storage.js",
+      "hash": "3556abb16d3deccd83206be67b26b1554092f77f",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/02_mod_specific/18_rftools.js",
+      "hash": "248eb4295adbb7d992d4f3b3de7182e08d7d64ae",
+      "override": true
+    },
+    {
+      "path": "kubejs/server_scripts/recipe_removals.js",
+      "hash": "d49cde7a2bbe04ac61aec9f50cf42af9b0159121",
+      "override": true
+    },
+    {
+      "path": "kubejs/startup_scripts/01_globals.js",
+      "hash": "5e7843e8ca343109e48dd1e1ffce8b8b13552adb",
+      "override": true
+    },
+    {
+      "path": "mods/cc-tweaked-1.21.1-forge-1.115.1.jar",
+      "hash": "3fcea43ed79139a7d6f69f2a2ad93db021760171",
+      "override": true
+    },
+    {
+      "path": "mods/ftb-auxilium-neoforge-21.0.1.jar",
+      "hash": "a99742b6151d4ac0b3c3e08e4468f39abb2f3d47",
+      "override": true
+    },
+    {
+      "path": "mods/rgp-client-1.0.10+mc1.21.1.jar",
+      "hash": "5b30d6defd138b0314923c5d2dd0c7ef7c7ff67d",
       "override": true
     },
     {
