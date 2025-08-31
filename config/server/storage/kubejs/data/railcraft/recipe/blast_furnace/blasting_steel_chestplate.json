@@ -1,0 +1,12 @@
+{
+  "type": "railcraft:blasting",
+  "cookingTime": 1400,
+  "experience": 0.0,
+  "ingredient": {
+    "item": "railcraft:steel_chestplate"
+  },
+  "result": {
+    "count": 7,
+    "id": "mekanism:ingot_steel"
+  }
+}

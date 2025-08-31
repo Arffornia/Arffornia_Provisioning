@@ -1,0 +1,20 @@
+{
+  "type": "railcraft:crusher",
+  "ingredient": {
+    "item": "railcraft:crushed_obsidian"
+  },
+  "outputs": [
+    {
+      "probability": 1.0,
+      "result": {
+        "item": "mekanism:dust_obsidian"
+      }
+    },
+    {
+      "probability": 0.25,
+      "result": {
+        "item": "mekanism:dust_obsidian"
+      }
+    }
+  ]
+}

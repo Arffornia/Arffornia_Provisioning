@@ -1,0 +1,12 @@
+{
+  "type": "enderio:fire_crafting",
+  "base_blocks": [
+    "minecraft:bedrock"
+  ],
+  "dimensions": [
+    "minecraft:overworld",
+    "jamd:mining"
+  ],
+  "loot_table": "enderio:fire_crafting/bedrock_infinity",
+  "max_item_drops": 3
+}

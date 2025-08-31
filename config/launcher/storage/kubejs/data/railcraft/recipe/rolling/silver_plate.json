@@ -1,0 +1,16 @@
+{
+  "type": "railcraft:rolling",
+  "key": {
+    "a": {
+      "tag": "c:ingots/silver"
+    }
+  },
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "result": {
+    "count": 4,
+    "id": "railcraft:silver_plate"
+  }
+}

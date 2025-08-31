@@ -1,0 +1,13 @@
+{
+  "type": "railcraft:blasting",
+  "cookingTime": 3600,
+  "experience": 0.0,
+  "ingredient": {
+    "tag": "c:storage_blocks/iron"
+  },
+  "result": {
+    "count": 1,
+    "id": "mekanism:block_steel"
+  },
+  "slagOutput": 9
+}

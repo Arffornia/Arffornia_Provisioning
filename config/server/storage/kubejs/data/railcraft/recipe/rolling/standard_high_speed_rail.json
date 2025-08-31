@@ -1,0 +1,23 @@
+{
+  "type": "railcraft:rolling",
+  "key": {
+    "a": {
+      "tag": "c:ingots/steel"
+    },
+    "b": {
+      "item": "minecraft:blaze_powder"
+    },
+    "c": {
+      "tag": "c:ingots/gold"
+    }
+  },
+  "pattern": [
+    "abc",
+    "abc",
+    "abc"
+  ],
+  "result": {
+    "count": 8,
+    "id": "railcraft:high_speed_rail"
+  }
+}

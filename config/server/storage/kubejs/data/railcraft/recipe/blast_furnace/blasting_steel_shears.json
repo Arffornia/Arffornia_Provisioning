@@ -1,0 +1,12 @@
+{
+  "type": "railcraft:blasting",
+  "cookingTime": 200,
+  "experience": 0.0,
+  "ingredient": {
+    "item": "railcraft:steel_shears"
+  },
+  "result": {
+    "count": 1,
+    "id": "mekanism:ingot_steel"
+  }
+}

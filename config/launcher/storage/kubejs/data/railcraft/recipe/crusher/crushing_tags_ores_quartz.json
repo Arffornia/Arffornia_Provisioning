@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ores/quartz"
+      }
+    }
+  ],
+  "type": "railcraft:crusher",
+  "ingredient": {
+    "tag": "c:ores/quartz"
+  },
+  "outputs": [
+    {
+      "count": 3,
+      "probability": 1.0,
+      "result": {
+        "item": "minecraft:quartz"
+      }
+    },
+    {
+      "probability": 0.25,
+      "result": {
+        "item": "mekanism:dust_sulfur"
+      }
+    }
+  ]
+}

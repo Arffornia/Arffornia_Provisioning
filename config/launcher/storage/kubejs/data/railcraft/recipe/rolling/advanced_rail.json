@@ -1,0 +1,20 @@
+{
+  "type": "railcraft:rolling",
+  "key": {
+    "a": {
+      "tag": "c:dusts/redstone"
+    },
+    "b": {
+      "tag": "c:ingots/gold"
+    }
+  },
+  "pattern": [
+    "a b",
+    "a b",
+    "a b"
+  ],
+  "result": {
+    "count": 8,
+    "id": "railcraft:advanced_rail"
+  }
+}

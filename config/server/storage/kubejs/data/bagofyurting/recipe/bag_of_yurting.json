@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "www",
+    "wEw",
+    "ccc"
+  ],
+  "key": {
+    "w": {
+      "tag": "minecraft:wool"
+    },
+    "c": {
+      "tag": "minecraft:wool_carpets"
+    },    
+    "E": {
+      "tag": "c:ender_pearls"
+    }
+  },
+  "result": {
+    "id": "bagofyurting:bag_of_yurting"
+  }
+}

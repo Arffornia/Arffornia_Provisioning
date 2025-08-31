@@ -60,6 +60,1311 @@
                 "displayName": "Prometheus Exporter",
                 "projectId": "351938",
                 "fileId": "5657655"
+            },
+            {
+                "displayName": "Hostile Neural Networks",
+                "projectId": "552574",
+                "fileId": "6430289"
+            },
+            {
+                "displayName": "Variants&Ventures",
+                "projectId": "981139",
+                "fileId": "6458761"
+            },
+            {
+                "displayName": "Balm",
+                "projectId": "531761",
+                "fileId": "6552755"
+            },
+            {
+                "displayName": "Mekanism Additions",
+                "projectId": "345425",
+                "fileId": "6486995"
+            },
+            {
+                "displayName": "WITS (What Is This Structure?)",
+                "projectId": "909375",
+                "fileId": "5426237"
+            },
+            {
+                "displayName": "Patchouli",
+                "projectId": "306770",
+                "fileId": "6164617"
+            },
+            {
+                "displayName": "Mekanism Tools",
+                "projectId": "268567",
+                "fileId": "6486997"
+            },
+            {
+                "displayName": "Farmer's Delight",
+                "projectId": "398521",
+                "fileId": "6154807"
+            },
+            {
+                "displayName": "Integrated Crafting",
+                "projectId": "287357",
+                "fileId": "6514995"
+            },
+            {
+                "displayName": "XNet Gases",
+                "projectId": "383182",
+                "fileId": "5956121"
+            },
+            {
+                "displayName": "XyCraft: World",
+                "projectId": "653789",
+                "fileId": "5601038"
+            },
+            {
+                "displayName": "Entangled",
+                "projectId": "301034",
+                "fileId": "6091724"
+            },
+            {
+                "displayName": "XyCraft: Override",
+                "projectId": "653790",
+                "fileId": "5601041"
+            },
+            {
+                "displayName": "XNet",
+                "projectId": "260912",
+                "fileId": "6310525"
+            },
+            {
+                "displayName": "Apothic Enchanting",
+                "projectId": "1063926",
+                "fileId": "6514634"
+            },
+            {
+                "displayName": "Rain Shield",
+                "projectId": "573156",
+                "fileId": "5729705"
+            },
+            {
+                "displayName": "Not Enough Glyphs",
+                "projectId": "1023517",
+                "fileId": "6447277"
+            },
+            {
+                "displayName": "AppleSkin",
+                "projectId": "248787",
+                "fileId": "5586600"
+            },
+            {
+                "displayName": "AE2 JEI Integration",
+                "projectId": "1074338",
+                "fileId": "5748513"
+            },
+            {
+                "displayName": "YUNG's Better Witch Huts (NeoForge)",
+                "projectId": "1015144",
+                "fileId": "5812532"
+            },
+            {
+                "displayName": "Theurgy KubeJS",
+                "projectId": "963206",
+                "fileId": "5705870"
+            },
+            {
+                "displayName": "Quick Paths",
+                "projectId": "382877",
+                "fileId": "6185375"
+            },
+            {
+                "displayName": "Applied Flux",
+                "projectId": "965012",
+                "fileId": "6537909"
+            },
+            {
+                "displayName": "Oritech",
+                "projectId": "1030830",
+                "fileId": "6548040"
+            },
+            {
+                "displayName": "Inventory Sorter",
+                "projectId": "240633",
+                "fileId": "6235889"
+            },
+            {
+                "displayName": "GeckoLib",
+                "projectId": "388172",
+                "fileId": "6304958"
+            },
+            {
+                "displayName": "Gadgets Against Grind",
+                "projectId": "694962",
+                "fileId": "6433427"
+            },
+            {
+                "displayName": "Waystones",
+                "projectId": "245755",
+                "fileId": "6552633"
+            },
+            {
+                "displayName": "Super Factory Manager ( SFM )",
+                "projectId": "306935",
+                "fileId": "6361523"
+            },
+            {
+                "displayName": "Cosmetic Armor Reworked",
+                "projectId": "237307",
+                "fileId": "5610814"
+            },
+            {
+                "displayName": "AE2 Network Analyser",
+                "projectId": "961856",
+                "fileId": "6465849"
+            },
+            {
+                "displayName": "YUNG's Better Jungle Temples (NeoForge)",
+                "projectId": "1015123",
+                "fileId": "5924482"
+            },
+            {
+                "displayName": "Farming for Blockheads",
+                "projectId": "261924",
+                "fileId": "6409932"
+            },
+            {
+                "displayName": "The Twilight Forest",
+                "projectId": "227639",
+                "fileId": "6472889"
+            },
+            {
+                "displayName": "More Red x CC:Tweaked Compat",
+                "projectId": "867286",
+                "fileId": "6165477"
+            },
+            {
+                "displayName": "Formations Nether",
+                "projectId": "918840",
+                "fileId": "5627771"
+            },
+            {
+                "displayName": "Curios API (Forge/NeoForge)",
+                "projectId": "309927",
+                "fileId": "6529130"
+            },
+            {
+                "displayName": "FTB Pack Companion",
+                "projectId": "693963",
+                "fileId": "6204863"
+            },
+            {
+                "displayName": "Cooking for Blockheads",
+                "projectId": "231484",
+                "fileId": "6507724"
+            },
+            {
+                "displayName": "More Red",
+                "projectId": "387638",
+                "fileId": "5763286"
+            },
+            {
+                "displayName": "Construction Sticks",
+                "projectId": "1156098",
+                "fileId": "6527061"
+            },
+            {
+                "displayName": "Structure Essentials[Forge/Fabric]",
+                "projectId": "832882",
+                "fileId": "6420210"
+            },
+            {
+                "displayName": "Fzzy Config",
+                "projectId": "1005914",
+                "fileId": "6405153"
+            },
+            {
+                "displayName": "Pocket Storage",
+                "projectId": "367734",
+                "fileId": "5704328"
+            },
+            {
+                "displayName": "NetherPortalFix",
+                "projectId": "241160",
+                "fileId": "5623547"
+            },
+            {
+                "displayName": "Chipped",
+                "projectId": "456956",
+                "fileId": "5813117"
+            },
+            {
+                "displayName": "Pipez",
+                "projectId": "443900",
+                "fileId": "5757713"
+            },
+            {
+                "displayName": "Cupboard",
+                "projectId": "326652",
+                "fileId": "6078150"
+            },
+            {
+                "displayName": "Emojiful",
+                "projectId": "284324",
+                "fileId": "6388599"
+            },
+            {
+                "displayName": "Simply Light",
+                "projectId": "300331",
+                "fileId": "6219029"
+            },
+            {
+                "displayName": "FastSuite",
+                "projectId": "475117",
+                "fileId": "6454401"
+            },
+            {
+                "displayName": "Extreme Reactors",
+                "projectId": "250277",
+                "fileId": "6458777"
+            },
+            {
+                "displayName": "Mekanism Generators",
+                "projectId": "268566",
+                "fileId": "6486996"
+            },
+            {
+                "displayName": "Carbon Config",
+                "projectId": "898104",
+                "fileId": "6540112"
+            },
+            {
+                "displayName": "Utilitarian",
+                "projectId": "929559",
+                "fileId": "6513086"
+            },
+            {
+                "displayName": "What Are They Up To (Watut)",
+                "projectId": "945479",
+                "fileId": "6418577"
+            },
+            {
+                "displayName": "ModernFix",
+                "projectId": "790626",
+                "fileId": "6548599"
+            },
+            {
+                "displayName": "Comforts (Fabric/Forge/Quilt)",
+                "projectId": "276951",
+                "fileId": "5821146"
+            },
+            {
+                "displayName": "Crafting Tweaks",
+                "projectId": "233071",
+                "fileId": "6023041"
+            },
+            {
+                "displayName": "OctoLib",
+                "projectId": "916747",
+                "fileId": "6011408"
+            },
+            {
+                "displayName": "GeOre Nouveau",
+                "projectId": "667803",
+                "fileId": "6264588"
+            },
+            {
+                "displayName": "Accelerated Decay",
+                "projectId": "699872",
+                "fileId": "5433036"
+            },
+            {
+                "displayName": "Almost Unified",
+                "projectId": "633823",
+                "fileId": "6501918"
+            },
+            {
+                "displayName": "Iron's Spells 'n Spellbooks",
+                "projectId": "855414",
+                "fileId": "6556085"
+            },
+            {
+                "displayName": "Sophisticated Core",
+                "projectId": "618298",
+                "fileId": "6555839"
+            },
+            {
+                "displayName": "Overloaded Armor Bar",
+                "projectId": "314002",
+                "fileId": "5537850"
+            },
+            {
+                "displayName": "Refined Storage - Curios Integration",
+                "projectId": "1230729",
+                "fileId": "6360514"
+            },
+            {
+                "displayName": "Glodium",
+                "projectId": "957920",
+                "fileId": "5821676"
+            },
+            {
+                "displayName": "JAOPCA",
+                "projectId": "266936",
+                "fileId": "6516525"
+            },
+            {
+                "displayName": "Lithosphere",
+                "projectId": "995122",
+                "fileId": "6448829"
+            },
+            {
+                "displayName": "When Dungeons Arise - Seven Seas",
+                "projectId": "953637",
+                "fileId": "5661269"
+            },
+            {
+                "displayName": "ME Requester",
+                "projectId": "688367",
+                "fileId": "6436029"
+            },
+            {
+                "displayName": "ZeroCore 2",
+                "projectId": "247921",
+                "fileId": "6458774"
+            },
+            {
+                "displayName": "Ars Nouveau's Flavors & Delight",
+                "projectId": "1131668",
+                "fileId": "6531084"
+            },
+            {
+                "displayName": "Jumbo Furnace",
+                "projectId": "390880",
+                "fileId": "5824690"
+            },
+            {
+                "displayName": "ExtendedAE",
+                "projectId": "892005",
+                "fileId": "6543298"
+            },
+            {
+                "displayName": "Kotlin for Forge",
+                "projectId": "351264",
+                "fileId": "6497906"
+            },
+            {
+                "displayName": "spark",
+                "projectId": "361579",
+                "fileId": "6225208"
+            },
+            {
+                "displayName": "Mekanism",
+                "projectId": "268560",
+                "fileId": "6486993"
+            },
+            {
+                "displayName": "Industrial Foregoing",
+                "projectId": "266515",
+                "fileId": "6502376"
+            },
+            {
+                "displayName": "Charging Gadgets",
+                "projectId": "399757",
+                "fileId": "5615790"
+            },
+            {
+                "displayName": "Project: Vibrant Journeys",
+                "projectId": "300297",
+                "fileId": "6424348"
+            },
+            {
+                "displayName": "CoroUtil",
+                "projectId": "237749",
+                "fileId": "5622966"
+            },
+            {
+                "displayName": "Jade 🔍",
+                "projectId": "324717",
+                "fileId": "6291517"
+            },
+            {
+                "displayName": "Formations (Structure Library)",
+                "projectId": "915115",
+                "fileId": "5929384"
+            },
+            {
+                "displayName": "CreativeCore",
+                "projectId": "257814",
+                "fileId": "6550281"
+            },
+            {
+                "displayName": "Searchables",
+                "projectId": "858542",
+                "fileId": "5831692"
+            },
+            {
+                "displayName": "Building Gadgets",
+                "projectId": "298187",
+                "fileId": "5968587"
+            },
+            {
+                "displayName": "PneumaticCraft: Repressurized",
+                "projectId": "281849",
+                "fileId": "6288626"
+            },
+            {
+                "displayName": "MEGA Cells",
+                "projectId": "622112",
+                "fileId": "6531846"
+            },
+            {
+                "displayName": "When Dungeons Arise - Forge!",
+                "projectId": "442508",
+                "fileId": "6078710"
+            },
+            {
+                "displayName": "Tom's Peripherals",
+                "projectId": "931210",
+                "fileId": "5805842"
+            },
+            {
+                "displayName": "Simple Teleporters Reforged",
+                "projectId": "998602",
+                "fileId": "5575801"
+            },
+            {
+                "displayName": "XyCraft",
+                "projectId": "653786",
+                "fileId": "5601037"
+            },
+            {
+                "displayName": "YUNG's Better End Island (NeoForge)",
+                "projectId": "1015127",
+                "fileId": "6300968"
+            },
+            {
+                "displayName": "Sushi Go Crafting",
+                "projectId": "452500",
+                "fileId": "6218250"
+            },
+            {
+                "displayName": "LaserIO",
+                "projectId": "626839",
+                "fileId": "5730007"
+            },
+            {
+                "displayName": "Trash Cans",
+                "projectId": "394535",
+                "fileId": "5891067"
+            },
+            {
+                "displayName": "Forge Config API Port",
+                "projectId": "547434",
+                "fileId": "5982385"
+            },
+            {
+                "displayName": "Collective",
+                "projectId": "342584",
+                "fileId": "6429221"
+            },
+            {
+                "displayName": "Useful Slime (NeoForge/Fabric)",
+                "projectId": "417702",
+                "fileId": "6282838"
+            },
+            {
+                "displayName": "The Magic Doorknob",
+                "projectId": "364139",
+                "fileId": "6280316"
+            },
+            {
+                "displayName": "BetterF3",
+                "projectId": "401648",
+                "fileId": "5873258"
+            },
+            {
+                "displayName": "Sophisticated Storage",
+                "projectId": "619320",
+                "fileId": "6538426"
+            },
+            {
+                "displayName": "Mekanism Turrets & Fences",
+                "projectId": "1031448",
+                "fileId": "6365545"
+            },
+            {
+                "displayName": "Just Zoom",
+                "projectId": "561885",
+                "fileId": "6290230"
+            },
+            {
+                "displayName": "Glassential Renewed (Fabric/NeoForge)",
+                "projectId": "945149",
+                "fileId": "6449450"
+            },
+            {
+                "displayName": "JAMD",
+                "projectId": "422981",
+                "fileId": "6280200"
+            },
+            {
+                "displayName": "GeOre",
+                "projectId": "530544",
+                "fileId": "6541070"
+            },
+            {
+                "displayName": "Integrated Dynamics",
+                "projectId": "236307",
+                "fileId": "6550624"
+            },
+            {
+                "displayName": "SuperMartijn642's Core Lib",
+                "projectId": "454372",
+                "fileId": "6076757"
+            },
+            {
+                "displayName": "Loot Integrations",
+                "projectId": "580689",
+                "fileId": "6499144"
+            },
+            {
+                "displayName": "Torchmaster",
+                "projectId": "254268",
+                "fileId": "5827075"
+            },
+            {
+                "displayName": "SolarGeneration",
+                "projectId": "336538",
+                "fileId": "6013065"
+            },
+            {
+                "displayName": "Domum Ornamentum",
+                "projectId": "527361",
+                "fileId": "6335398"
+            },
+            {
+                "displayName": "Modern Dynamics",
+                "projectId": "552758",
+                "fileId": "6063462"
+            },
+            {
+                "displayName": "Fargo's Talismans",
+                "projectId": "950292",
+                "fileId": "6079262"
+            },
+            {
+                "displayName": "Measurements",
+                "projectId": "478559",
+                "fileId": "6426556"
+            },
+            {
+                "displayName": "Not Enough Recipe Book [NERB]",
+                "projectId": "738663",
+                "fileId": "6439340"
+            },
+            {
+                "displayName": "Just Enough Professions (JEP)",
+                "projectId": "417645",
+                "fileId": "6231254"
+            },
+            {
+                "displayName": "Structure Compass",
+                "projectId": "319598",
+                "fileId": "5774341"
+            },
+            {
+                "displayName": "Toast Control",
+                "projectId": "271740",
+                "fileId": "5530706"
+            },
+            {
+                "displayName": "YUNG's Better Mineshafts (NeoForge)",
+                "projectId": "1015096",
+                "fileId": "5812193"
+            },
+            {
+                "displayName": "Redstone Pen",
+                "projectId": "461710",
+                "fileId": "6102752"
+            },
+            {
+                "displayName": "Stitch (formerly Athena)",
+                "projectId": "841890",
+                "fileId": "5629395"
+            },
+            {
+                "displayName": "Refined Storage - Mekanism Integration",
+                "projectId": "1230504",
+                "fileId": "6359071"
+            },
+            {
+                "displayName": "Structurize",
+                "projectId": "298744",
+                "fileId": "6515153"
+            },
+            {
+                "displayName": "Apothic Spawners",
+                "projectId": "986583",
+                "fileId": "6430294"
+            },
+            {
+                "displayName": "CreeperHost Presents Steve's Carts",
+                "projectId": "551524",
+                "fileId": "6068889"
+            },
+            {
+                "displayName": "Repurposed Structures (Neoforge/Forge)",
+                "projectId": "368293",
+                "fileId": "6540278"
+            },
+            {
+                "displayName": "McJtyLib",
+                "projectId": "233105",
+                "fileId": "6541819"
+            },
+            {
+                "displayName": "Trenzalore",
+                "projectId": "870210",
+                "fileId": "5623160"
+            },
+            {
+                "displayName": "Mob Grinding Utils",
+                "projectId": "254241",
+                "fileId": "6516546"
+            },
+            {
+                "displayName": "YUNG's Better Desert Temples (NeoForge)",
+                "projectId": "1015114",
+                "fileId": "6276955"
+            },
+            {
+                "displayName": "Statues",
+                "projectId": "253172",
+                "fileId": "6036375"
+            },
+            {
+                "displayName": "Just Dire Things",
+                "projectId": "1002348",
+                "fileId": "6369120"
+            },
+            {
+                "displayName": "Armor Poser",
+                "projectId": "450663",
+                "fileId": "6543710"
+            },
+            {
+                "displayName": "Repeatable Trial Vaults",
+                "projectId": "1070541",
+                "fileId": "5643915"
+            },
+            {
+                "displayName": "Better Advancements",
+                "projectId": "272515",
+                "fileId": "5850587"
+            },
+            {
+                "displayName": "Bag of Yurting",
+                "projectId": "381068",
+                "fileId": "5533168"
+            },
+            {
+                "displayName": "PolyLib",
+                "projectId": "576589",
+                "fileId": "6350931"
+            },
+            {
+                "displayName": "Clumps",
+                "projectId": "256717",
+                "fileId": "5623731"
+            },
+            {
+                "displayName": "Iron Jetpacks",
+                "projectId": "284497",
+                "fileId": "6503379"
+            },
+            {
+                "displayName": "XyCraft: Machines",
+                "projectId": "653791",
+                "fileId": "5601045"
+            },
+            {
+                "displayName": "Mekanism Lasers",
+                "projectId": "1060096",
+                "fileId": "6516131"
+            },
+            {
+                "displayName": "Bookshelf",
+                "projectId": "228525",
+                "fileId": "6503278"
+            },
+            {
+                "displayName": "Functional Storage",
+                "projectId": "556861",
+                "fileId": "6467726"
+            },
+            {
+                "displayName": "Applied Energistics 2 Wireless Terminals",
+                "projectId": "459929",
+                "fileId": "6437277"
+            },
+            {
+                "displayName": "oωo (owo-lib)",
+                "projectId": "532610",
+                "fileId": "6416633"
+            },
+            {
+                "displayName": "Potentials",
+                "projectId": "1165185",
+                "fileId": "6360397"
+            },
+            {
+                "displayName": "Sophisticated Backpacks",
+                "projectId": "422301",
+                "fileId": "6538419"
+            },
+            {
+                "displayName": "Fusion (Connected Textures)",
+                "projectId": "854949",
+                "fileId": "6453834"
+            },
+            {
+                "displayName": "Bank Storage",
+                "projectId": "916710",
+                "fileId": "6253249"
+            },
+            {
+                "displayName": "Modular Routers",
+                "projectId": "250294",
+                "fileId": "6479958"
+            },
+            {
+                "displayName": "Applied Mekanistics",
+                "projectId": "574300",
+                "fileId": "5978711"
+            },
+            {
+                "displayName": "Wither Skeleton Tweaks",
+                "projectId": "255902",
+                "fileId": "6428057"
+            },
+            {
+                "displayName": "Productive Trees",
+                "projectId": "867074",
+                "fileId": "6263281"
+            },
+            {
+                "displayName": "Tool Kit",
+                "projectId": "324888",
+                "fileId": "5521502"
+            },
+            {
+                "displayName": "Integrated Terminals",
+                "projectId": "295910",
+                "fileId": "6550623"
+            },
+            {
+                "displayName": "Apothic Attributes",
+                "projectId": "898963",
+                "fileId": "6514649"
+            },
+            {
+                "displayName": "Just Enough Mekanism Multiblocks",
+                "projectId": "898746",
+                "fileId": "6462078"
+            },
+            {
+                "displayName": "Occultism",
+                "projectId": "361026",
+                "fileId": "6543406"
+            },
+            {
+                "displayName": "Industrial Foregoing Souls",
+                "projectId": "904394",
+                "fileId": "6235883"
+            },
+            {
+                "displayName": "Controlling",
+                "projectId": "250398",
+                "fileId": "6368976"
+            },
+            {
+                "displayName": "Cable Facades",
+                "projectId": "1140577",
+                "fileId": "6323048"
+            },
+            {
+                "displayName": "Dungeon Crawl",
+                "projectId": "324973",
+                "fileId": "6047162"
+            },
+            {
+                "displayName": "AdvancedAE",
+                "projectId": "1084104",
+                "fileId": "6225993"
+            },
+            {
+                "displayName": "Ender IO",
+                "projectId": "64578",
+                "fileId": "6363527"
+            },
+            {
+                "displayName": "TownTalk",
+                "projectId": "900364",
+                "fileId": "5653504"
+            },
+            {
+                "displayName": "Refined Storage",
+                "projectId": "243076",
+                "fileId": "6391989"
+            },
+            {
+                "displayName": "FTB Backups 2",
+                "projectId": "622737",
+                "fileId": "5501351"
+            },
+            {
+                "displayName": "Light Overlay (Rift/Forge/Fabric)",
+                "projectId": "325492",
+                "fileId": "5553811"
+            },
+            {
+                "displayName": "Simple Magnets",
+                "projectId": "394140",
+                "fileId": "6316527"
+            },
+            {
+                "displayName": "EvilCraft",
+                "projectId": "74610",
+                "fileId": "6519284"
+            },
+            {
+                "displayName": "Lithostitched",
+                "projectId": "936015",
+                "fileId": "6541324"
+            },
+            {
+                "displayName": "YUNG's Bridges (NeoForge)",
+                "projectId": "1015149",
+                "fileId": "5812553"
+            },
+            {
+                "displayName": "Rechiseled: Chipped",
+                "projectId": "1007578",
+                "fileId": "6357945"
+            },
+            {
+                "displayName": "EventsLib",
+                "projectId": "1122002",
+                "fileId": "6063460"
+            },
+            {
+                "displayName": "Iron Furnaces",
+                "projectId": "237664",
+                "fileId": "5779819"
+            },
+            {
+                "displayName": "Cyclops Core",
+                "projectId": "232758",
+                "fileId": "6494981"
+            },
+            {
+                "displayName": "Create",
+                "projectId": "328085",
+                "fileId": "6323264"
+            },
+            {
+                "displayName": "Repurposed Structures - PneumaticCraft: Repressurized Compat Mod",
+                "projectId": "1080446",
+                "fileId": "5609901"
+            },
+            {
+                "displayName": "Nature's Compass",
+                "projectId": "252848",
+                "fileId": "5696042"
+            },
+            {
+                "displayName": "RFTools Base",
+                "projectId": "326041",
+                "fileId": "6362247"
+            },
+            {
+                "displayName": "What The Bucket",
+                "projectId": "633747",
+                "fileId": "5945593"
+            },
+            {
+                "displayName": "FTB XMod Compat",
+                "projectId": "889915",
+                "fileId": "6259292"
+            },
+            {
+                "displayName": "Flower Patch",
+                "projectId": "641038",
+                "fileId": "6281047"
+            },
+            {
+                "displayName": "Cloth Config API (Fabric/Forge/NeoForge)",
+                "projectId": "348521",
+                "fileId": "5729127"
+            },
+            {
+                "displayName": "Ars Elemental",
+                "projectId": "561470",
+                "fileId": "6419081"
+            },
+            {
+                "displayName": "EdivadLib",
+                "projectId": "638508",
+                "fileId": "5491721"
+            },
+            {
+                "displayName": "XP Tome",
+                "projectId": "344787",
+                "fileId": "5842036"
+            },
+            {
+                "displayName": "Particle Core",
+                "projectId": "985426",
+                "fileId": "6427563"
+            },
+            {
+                "displayName": "Mining Gadgets",
+                "projectId": "351748",
+                "fileId": "5615761"
+            },
+            {
+                "displayName": "Multi-Piston",
+                "projectId": "303278",
+                "fileId": "6515286"
+            },
+            {
+                "displayName": "Cucumber Library",
+                "projectId": "272335",
+                "fileId": "6481512"
+            },
+            {
+                "displayName": "FerriteCore ((Neo)Forge)",
+                "projectId": "429235",
+                "fileId": "5850121"
+            },
+            {
+                "displayName": "Mekanism Unleashed",
+                "projectId": "1072209",
+                "fileId": "6487994"
+            },
+            {
+                "displayName": "Powah! (Rearchitected)",
+                "projectId": "633483",
+                "fileId": "6483151"
+            },
+            {
+                "displayName": "Tree Tap",
+                "projectId": "927874",
+                "fileId": "6026105"
+            },
+            {
+                "displayName": "LittleTiles",
+                "projectId": "257818",
+                "fileId": "6558410"
+            },
+            {
+                "displayName": "Handcrafted",
+                "projectId": "538214",
+                "fileId": "6330030"
+            },
+            {
+                "displayName": "Common Network",
+                "projectId": "806044",
+                "fileId": "6056553"
+            },
+            {
+                "displayName": "Relics",
+                "projectId": "445274",
+                "fileId": "6444603"
+            },
+            {
+                "displayName": "Yung Structures Addon for Loot Integrations",
+                "projectId": "1012211",
+                "fileId": "6510287"
+            },
+            {
+                "displayName": "playerAnimator",
+                "projectId": "658587",
+                "fileId": "6024462"
+            },
+            {
+                "displayName": "OpenBlocks Trophies",
+                "projectId": "683319",
+                "fileId": "6111474"
+            },
+            {
+                "displayName": "Village Spawn Point",
+                "projectId": "347381",
+                "fileId": "6429245"
+            },
+            {
+                "displayName": "Theurgy",
+                "projectId": "430636",
+                "fileId": "6178485"
+            },
+            {
+                "displayName": "Easy Piglins",
+                "projectId": "419372",
+                "fileId": "6137967"
+            },
+            {
+                "displayName": "Laser Bridges & Doors [Fabric/Forge/NeoForge]",
+                "projectId": "776337",
+                "fileId": "6253698"
+            },
+            {
+                "displayName": "YUNG's API (NeoForge)",
+                "projectId": "1015100",
+                "fileId": "6489137"
+            },
+            {
+                "displayName": "Refined Storage - JEI Integration",
+                "projectId": "1230497",
+                "fileId": "6359014"
+            },
+            {
+                "displayName": "Hyperbox",
+                "projectId": "435405",
+                "fileId": "5555553"
+            },
+            {
+                "displayName": "RFTools Power",
+                "projectId": "290209",
+                "fileId": "6310518"
+            },
+            {
+                "displayName": "FindMe",
+                "projectId": "291936",
+                "fileId": "6464161"
+            },
+            {
+                "displayName": "Integrated Tunnels",
+                "projectId": "251389",
+                "fileId": "6505607"
+            },
+            {
+                "displayName": "FTB JEI Extras",
+                "projectId": "1103259",
+                "fileId": "6114411"
+            },
+            {
+                "displayName": "Just Enough Breeding (JEBr)",
+                "projectId": "899386",
+                "fileId": "6489928"
+            },
+            {
+                "displayName": "YUNG's Better Strongholds (NeoForge)",
+                "projectId": "1015105",
+                "fileId": "6272264"
+            },
+            {
+                "displayName": "Just Enough Items (JEI)",
+                "projectId": "238222",
+                "fileId": "6516057"
+            },
+            {
+                "displayName": "Railcraft Reborn",
+                "projectId": "901491",
+                "fileId": "6149952"
+            },
+            {
+                "displayName": "SmartBrainLib (Forge/Fabric/Quilt)",
+                "projectId": "661293",
+                "fileId": "6101242"
+            },
+            {
+                "displayName": "ExtraStorage",
+                "projectId": "410168",
+                "fileId": "6426944"
+            },
+            {
+                "displayName": "Structure Expansion",
+                "projectId": "398430",
+                "fileId": "5444108"
+            },
+            {
+                "displayName": "Prickle",
+                "projectId": "1023259",
+                "fileId": "6546240"
+            },
+            {
+                "displayName": "Titanium",
+                "projectId": "287342",
+                "fileId": "6443608"
+            },
+            {
+                "displayName": "AE2 Things [Forge]",
+                "projectId": "609977",
+                "fileId": "5637783"
+            },
+            {
+                "displayName": "SuperMartijn642's Config Lib",
+                "projectId": "438332",
+                "fileId": "5546996"
+            },
+            {
+                "displayName": "Resourceful Lib",
+                "projectId": "570073",
+                "fileId": "5973188"
+            },
+            {
+                "displayName": "RFTools Utility",
+                "projectId": "342466",
+                "fileId": "6541824"
+            },
+            {
+                "displayName": "Modonomicon",
+                "projectId": "538392",
+                "fileId": "6543721"
+            },
+            {
+                "displayName": "Rechiseled",
+                "projectId": "558998",
+                "fileId": "5663514"
+            },
+            {
+                "displayName": "FramedBlocks",
+                "projectId": "441647",
+                "fileId": "6496953"
+            },
+            {
+                "displayName": "Caelus API (Forge/NeoForge)",
+                "projectId": "308989",
+                "fileId": "5694215"
+            },
+            {
+                "displayName": "Deimos Lib",
+                "projectId": "1158094",
+                "fileId": "6533872"
+            },
+            {
+                "displayName": "Lootr (Forge & NeoForge)",
+                "projectId": "361276",
+                "fileId": "6354238"
+            },
+            {
+                "displayName": "GraveStone Mod",
+                "projectId": "238551",
+                "fileId": "5794085"
+            },
+            {
+                "displayName": "Stellaris",
+                "projectId": "1036270",
+                "fileId": "6503220"
+            },
+            {
+                "displayName": "Chalk",
+                "projectId": "533748",
+                "fileId": "5979986"
+            },
+            {
+                "displayName": "YetAnotherConfigLib",
+                "projectId": "667299",
+                "fileId": "6336630"
+            },
+            {
+                "displayName": "Log Begone",
+                "projectId": "623560",
+                "fileId": "5609009"
+            },
+            {
+                "displayName": "Simple Discord Rich Presence (Forge / Fabric)",
+                "projectId": "334853",
+                "fileId": "5577776"
+            },
+            {
+                "displayName": "Refined Storage - Quartz Arsenal",
+                "projectId": "1230483",
+                "fileId": "6358925"
+            },
+            {
+                "displayName": "Bagus Lib",
+                "projectId": "866533",
+                "fileId": "6494894"
+            },
+            {
+                "displayName": "Placebo",
+                "projectId": "283644",
+                "fileId": "6446766"
+            },
+            {
+                "displayName": "Easy Villagers",
+                "projectId": "400514",
+                "fileId": "6410328"
+            },
+            {
+                "displayName": "Common Capabilities",
+                "projectId": "247007",
+                "fileId": "6514971"
+            },
+            {
+                "displayName": "Gateways to Eternity",
+                "projectId": "417802",
+                "fileId": "6430292"
+            },
+            {
+                "displayName": "Transfer Labels",
+                "projectId": "1184406",
+                "fileId": "6552491"
+            },
+            {
+                "displayName": "NaNny (Fix NaN Health / Absorption)",
+                "projectId": "634392",
+                "fileId": "5728615"
+            },
+            {
+                "displayName": "Just Another Void Dimension",
+                "projectId": "370890",
+                "fileId": "5711894"
+            },
+            {
+                "displayName": "Cottonly",
+                "projectId": "515461",
+                "fileId": "5844817"
+            },
+            {
+                "displayName": "Pipe Connector",
+                "projectId": "846168",
+                "fileId": "6557868"
+            },
+            {
+                "displayName": "OpenBlocks Elevator",
+                "projectId": "250832",
+                "fileId": "6199696"
+            },
+            {
+                "displayName": "ServerCore",
+                "projectId": "550579",
+                "fileId": "6390848"
+            },
+            {
+                "displayName": "MineColonies",
+                "projectId": "245506",
+                "fileId": "6546461"
+            },
+            {
+                "displayName": "Shrink.",
+                "projectId": "426386",
+                "fileId": "6194054"
+            },
+            {
+                "displayName": "Actually Harvest (right click and XP)",
+                "projectId": "1076278",
+                "fileId": "6360598"
+            },
+            {
+                "displayName": "YUNG's Better Dungeons (NeoForge)",
+                "projectId": "1015112",
+                "fileId": "5954804"
+            },
+            {
+                "displayName": "Ars Nouveau",
+                "projectId": "401955",
+                "fileId": "6533780"
+            },
+            {
+                "displayName": "Enchantable Blocks",
+                "projectId": "1001871",
+                "fileId": "6381836"
             }
         ],
         "modrinth": [

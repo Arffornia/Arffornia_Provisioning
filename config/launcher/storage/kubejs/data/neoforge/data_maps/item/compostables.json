@@ -1,0 +1,106 @@
+{
+  "values": {
+    "minecraft:air": {
+      "chance": 0.0
+    },
+    "projectvibrantjourneys:bark_mushroom": {
+      "chance": 0.4
+    },
+    "projectvibrantjourneys:beach_grass": {
+      "chance": 0.25
+    },
+    "projectvibrantjourneys:birch_twigs": {
+      "chance": 0.1
+    },
+    "projectvibrantjourneys:blue_wildflowers": {
+      "chance": 0.25
+    },
+    "projectvibrantjourneys:bogged_remains": {
+      "chance": 1.0
+    },
+    "projectvibrantjourneys:cattail": {
+      "chance": 0.65
+    },
+    "projectvibrantjourneys:cindercane": {
+      "chance": 0.8
+    },
+    "projectvibrantjourneys:crimson_nettle": {
+      "chance": 0.65
+    },
+    "projectvibrantjourneys:dead_fallen_leaves": {
+      "chance": 0.1
+    },
+    "projectvibrantjourneys:glowcap": {
+      "chance": 0.65
+    },
+    "projectvibrantjourneys:glowing_blue_fungus": {
+      "chance": 0.4
+    },
+    "projectvibrantjourneys:huge_glowcap_block": {
+      "chance": 0.85
+    },
+    "projectvibrantjourneys:light_brown_bark_mushroom": {
+      "chance": 0.4
+    },
+    "projectvibrantjourneys:mixed_wildflowers": {
+      "chance": 0.25
+    },
+    "projectvibrantjourneys:oak_fallen_leaves": {
+      "chance": 0.1
+    },
+    "projectvibrantjourneys:orange_bark_mushroom": {
+      "chance": 0.4
+    },
+    "projectvibrantjourneys:orange_wildflowers": {
+      "chance": 0.25
+    },
+    "projectvibrantjourneys:pinecones": {
+      "chance": 0.1
+    },
+    "projectvibrantjourneys:pink_lotus": {
+      "chance": 0.5
+    },
+    "projectvibrantjourneys:pink_vines": {
+      "chance": 0.2
+    },
+    "projectvibrantjourneys:prickly_bush": {
+      "chance": 0.2
+    },
+    "projectvibrantjourneys:purple_wildflowers": {
+      "chance": 0.25
+    },
+    "projectvibrantjourneys:reeds": {
+      "chance": 0.65
+    },
+    "projectvibrantjourneys:sandy_sprouts": {
+      "chance": 0.15
+    },
+    "projectvibrantjourneys:sea_oats": {
+      "chance": 0.65
+    },
+    "projectvibrantjourneys:short_grass": {
+      "chance": 0.1
+    },
+    "projectvibrantjourneys:small_cactus": {
+      "chance": 0.25
+    },
+    "projectvibrantjourneys:twigs": {
+      "chance": 0.1
+    },
+    "projectvibrantjourneys:warped_nettle": {
+      "chance": 0.65
+    },
+    "projectvibrantjourneys:watergrass": {
+      "chance": 0.1
+    },
+    "projectvibrantjourneys:white_bark_mushroom": {
+      "chance": 0.4
+    },
+    "projectvibrantjourneys:white_wildflowers": {
+      "chance": 0.25
+    },
+    "projectvibrantjourneys:yellow_wildflowers": {
+      "chance": 0.25
+    }
+  }
+}

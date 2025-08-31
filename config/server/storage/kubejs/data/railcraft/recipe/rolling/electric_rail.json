@@ -1,0 +1,23 @@
+{
+  "type": "railcraft:rolling",
+  "key": {
+    "a": {
+      "tag": "c:ingots/steel"
+    },
+    "b": {
+      "tag": "c:ingots/copper"
+    },
+    "c": {
+      "tag": "c:ingots/steel"
+    }
+  },
+  "pattern": [
+    "abc",
+    "abc",
+    "abc"
+  ],
+  "result": {
+    "count": 12,
+    "id": "railcraft:electric_rail"
+  }
+}

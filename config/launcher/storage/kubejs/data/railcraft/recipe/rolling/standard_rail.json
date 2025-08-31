@@ -1,0 +1,20 @@
+{
+  "type": "railcraft:rolling",
+  "key": {
+    "a": {
+      "tag": "c:ingots/iron"
+    },
+    "b": {
+      "tag": "c:ingots/iron"
+    }
+  },
+  "pattern": [
+    "a b",
+    "a b",
+    "a b"
+  ],
+  "result": {
+    "count": 8,
+    "id": "railcraft:standard_rail"
+  }
+}

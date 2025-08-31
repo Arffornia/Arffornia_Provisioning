@@ -1,0 +1,36 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ores/sulfur"
+      }
+    }
+  ],
+  "type": "railcraft:crusher",
+  "ingredient": {
+    "tag": "c:ores/sulfur"
+  },
+  "outputs": [
+    {
+      "count": 5,
+      "probability": 1.0,
+      "result": {
+        "item": "mekanism:dust_sulfur"
+      }
+    },
+    {
+      "probability": 0.85,
+      "result": {
+        "item": "mekanism:dust_sulfur"
+      }
+    },
+    {
+      "probability": 0.35,
+      "result": {
+        "item": "mekanism:dust_sulfur"
+      }
+    }
+  ]
+}

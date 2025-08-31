@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "oritech:centrifuge_fluid",
+  "fluidInput": {
+    "amount": 1000,
+    "fluid": "minecraft:water"
+  },
+  "fluidOutput": {
+    "amount": 0,
+    "fluid": "minecraft:empty"
+  },  
+  "ingredients": [
+    {
+      "item": "pneumaticcraft:wheat_flour"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "create:dough"
+    }
+  ],
+  "time": 200
+}

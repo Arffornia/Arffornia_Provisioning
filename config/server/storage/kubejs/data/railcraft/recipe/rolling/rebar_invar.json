@@ -1,0 +1,17 @@
+{
+  "type": "railcraft:rolling",
+  "key": {
+    "a": {
+      "tag": "c:ingots/invar"
+    }
+  },
+  "pattern": [
+    "  a",
+    " a ",
+    "a  "
+  ],
+  "result": {
+    "count": 6,
+    "id": "railcraft:rebar"
+  }
+}

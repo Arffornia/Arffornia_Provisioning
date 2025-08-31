@@ -1,0 +1,15 @@
+{
+  "type": "railcraft:crusher",
+  "ingredient": {
+    "item": "minecraft:coal_block"
+  },
+  "outputs": [
+    {
+      "count": 9,
+      "probability": 1.0,
+      "result": {
+        "item": "mekanism:dust_coal"
+      }
+    }
+  ]
+}

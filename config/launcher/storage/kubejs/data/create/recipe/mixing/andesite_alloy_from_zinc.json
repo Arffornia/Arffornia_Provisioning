@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "chipped:andesite"
+    },
+    {
+      "tag": "c:nuggets/zinc"
+    }
+  ],
+  "results": [
+    {
+      "item": {
+        "id": "create:andesite_alloy"
+      }
+    }
+  ]
+}

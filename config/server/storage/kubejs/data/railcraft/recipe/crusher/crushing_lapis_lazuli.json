@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dusts/lapis"
+      }
+    }
+  ],
+  "type": "railcraft:crusher",
+  "ingredient": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "outputs": [
+    {
+      "probability": 1.0,
+      "result": {
+        "tag": "c:dusts/lapis"
+      }
+    }
+  ]
+}

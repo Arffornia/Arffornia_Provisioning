@@ -1,0 +1,21 @@
+{
+  "type": "railcraft:crusher",
+  "ingredient": {
+    "item": "minecraft:bricks"
+  },
+  "outputs": [
+    {
+      "count": 3,
+      "probability": 1.0,
+      "result": {
+        "item": "minecraft:brick"
+      }
+    },
+    {
+      "probability": 0.5,
+      "result": {
+        "item": "minecraft:brick"
+      }
+    }
+  ]
+}

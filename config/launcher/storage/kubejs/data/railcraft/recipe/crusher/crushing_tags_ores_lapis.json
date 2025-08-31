@@ -1,0 +1,42 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ores/lapis"
+      }
+    }
+  ],
+  "type": "railcraft:crusher",
+  "ingredient": {
+    "tag": "c:ores/lapis"
+  },
+  "outputs": [
+    {
+      "count": 8,
+      "probability": 1.0,
+      "result": {
+        "item": "minecraft:lapis_lazuli"
+      }
+    },
+    {
+      "probability": 0.85,
+      "result": {
+        "item": "minecraft:lapis_lazuli"
+      }
+    },
+    {
+      "probability": 0.35,
+      "result": {
+        "item": "minecraft:lapis_lazuli"
+      }
+    },
+    {
+      "probability": 0.2,
+      "result": {
+        "item": "mekanism:dust_sulfur"
+      }
+    }
+  ]
+}

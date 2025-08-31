@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "YZY",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "mekanism:block_steel"
+    },
+    "Z": {
+      "item": "minecraft:bucket"
+    },
+    "Y": {
+      "item": "stellaris:cable"
+    }
+  },
+  "result": {
+    "id": "stellaris:fuel_refinery"
+  }
+}

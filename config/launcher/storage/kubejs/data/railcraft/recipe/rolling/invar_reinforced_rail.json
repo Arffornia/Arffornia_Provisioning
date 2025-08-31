@@ -1,0 +1,23 @@
+{
+  "type": "railcraft:rolling",
+  "key": {
+    "a": {
+      "tag": "c:ingots/invar"
+    },
+    "b": {
+      "tag": "c:dusts/obsidian"
+    },
+    "c": {
+      "tag": "c:ingots/invar"
+    }
+  },
+  "pattern": [
+    "abc",
+    "abc",
+    "abc"
+  ],
+  "result": {
+    "count": 4,
+    "id": "railcraft:reinforced_rail"
+  }
+}

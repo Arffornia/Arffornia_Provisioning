@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "railcraft:quarried"
+      }
+    }
+  ],
+  "type": "railcraft:crusher",
+  "ingredient": {
+    "tag": "railcraft:quarried"
+  },
+  "outputs": [
+    {
+      "probability": 1.0,
+      "result": {
+        "item": "railcraft:quarried_cobblestone"
+      }
+    }
+  ]
+}

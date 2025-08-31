@@ -1,0 +1,15 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:ingots/iron"
+    }
+  ],
+  "results": [
+    {
+      "item": {
+        "id": "railcraft:iron_plate"
+      }
+    }
+  ]
+}

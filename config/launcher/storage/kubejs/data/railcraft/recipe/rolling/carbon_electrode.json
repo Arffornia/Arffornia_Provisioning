@@ -1,0 +1,22 @@
+{
+  "type": "railcraft:rolling",
+  "key": {
+    "a": [
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:charcoal"
+      }
+    ]
+  },
+  "pattern": [
+    " a ",
+    " a ",
+    " a "
+  ],
+  "result": {
+    "count": 1,
+    "id": "railcraft:carbon_electrode"
+  }
+}

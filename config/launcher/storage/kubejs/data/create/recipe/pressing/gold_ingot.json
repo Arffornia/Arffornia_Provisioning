@@ -1,0 +1,15 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:ingots/gold"
+    }
+  ],
+  "results": [
+    {
+      "item": {
+        "id": "railcraft:gold_plate"
+      }
+    }
+  ]
+}

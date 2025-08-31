@@ -1,0 +1,15 @@
+{
+  "type": "railcraft:rolling",
+  "key": {
+    "a": {
+      "tag": "c:nuggets/steel"
+    }
+  },
+  "pattern": [
+    "a"
+  ],
+  "result": {
+    "count": 1,
+    "id": "railcraft:track_parts"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:ingots/brass"
+    }
+  ],
+  "results": [
+    {
+      "item": {
+        "id": "railcraft:brass_plate"
+      }
+    }
+  ]
+}
