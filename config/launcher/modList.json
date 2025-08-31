@@ -1446,6 +1446,21 @@
                 "displayName": "Enchantable Blocks",
                 "projectId": "1001871",
                 "fileId": "6381836"
+            },
+            {
+                "displayName": "WATERFrAMES: Multimedia Displays",
+                "projectId": "834607",
+                "fileId": "6700274"
+            },
+            {
+                "displayName": "WATERMeDIA: Multimedia API",
+                "projectId": "869524",
+                "fileId": "6940368"
+            },
+            {
+                "displayName": "CreativeCore",
+                "projectId": "257814",
+                "fileId": "6937374"
             }
         ],
         "modrinth": [],
