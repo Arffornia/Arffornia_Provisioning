@@ -1020,7 +1020,7 @@
             {
                 "displayName": "Create",
                 "projectId": "328085",
-                "fileId": "6323264"
+                "fileId": "6641610"
             },
             {
                 "displayName": "Repurposed Structures - PneumaticCraft: Repressurized Compat Mod",
@@ -1526,6 +1526,31 @@
                 "displayName": "Create: Dragons Plus",
                 "projectId": "1216624",
                 "fileId": "6946959"
+            },
+            {
+                "displayName": "TerraBlender",
+                "projectId": "940057",
+                "fileId": "6054947"
+            },
+            {
+                "displayName": "Brandon's Core",
+                "projectId": "231382",
+                "fileId": "6769922"
+            },
+            {
+                "displayName": "CodeChicken Lib",
+                "projectId": "242818",
+                "fileId": "6583751"
+            },
+            {
+                "displayName": "Cristel Lib",
+                "projectId": "856996",
+                "fileId": "5692888"
+            },
+            {
+                "displayName": "GlitchCore",
+                "projectId": "955399",
+                "fileId": "5660740"
             }
         ],
         "modrinth": [],
