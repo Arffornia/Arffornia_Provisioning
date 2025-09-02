@@ -1461,6 +1461,71 @@
                 "displayName": "CreativeCore",
                 "projectId": "257814",
                 "fileId": "6937374"
+            },
+            {
+                "displayName": "Better Villages",
+                "projectId": "525480",
+                "fileId": "6593297"
+            },
+            {
+                "displayName": "Library Ferret",
+                "projectId": "522351",
+                "fileId": "6118136"
+            },
+            {
+                "displayName": "Towns and Towers",
+                "projectId": "626761",
+                "fileId": "5538562"
+            },
+            {
+                "displayName": "Terralith",
+                "projectId": "513688",
+                "fileId": "6090387"
+            },
+            {
+                "displayName": "Biomes O' Plenty",
+                "projectId": "220318",
+                "fileId": "6631072"
+            },
+            {
+                "displayName": "Draconic Evolution",
+                "projectId": "223565",
+                "fileId": "6943035"
+            },
+            {
+                "displayName": "Create: Enchantment Industry",
+                "projectId": "688768",
+                "fileId": "6948646"
+            },
+            {
+                "displayName": "Create: Integrated Farming",
+                "projectId": "1249131",
+                "fileId": "6652809"
+            },
+            {
+                "displayName": "Create: Central Kitchen",
+                "projectId": "820977",
+                "fileId": "6652803"
+            },
+            {
+                "displayName": "Create Railways Navigator",
+                "projectId": "935929",
+                "fileId": "6693815"
+            },
+            {
+                "displayName": "Create Encased",
+                "projectId": "829380",
+                "fileId": "6767415"
+            },
+            {
+                "displayName": "Create: Bells & Whistles",
+                "projectId": "905040",
+                "fileId": "6299879"
+            },
+            {
+                "displayName": "Create: Dragons Plus",
+                "projectId": "1216624",
+                "fileId": "6946959"
             }
         ],
         "modrinth": [],
