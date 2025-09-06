@@ -12,6 +12,11 @@
                 "fileId": "6488254"
             },
             {
+                "displayName": "BlockUI",
+                "projectId": "522992",
+                "fileId": "6367809"
+            },
+            {
                 "displayName": "FTB Essentials",
                 "projectId": "410811",
                 "fileId": "6179042"
@@ -60,6 +65,11 @@
                 "displayName": "Prometheus Exporter",
                 "projectId": "351938",
                 "fileId": "5657655"
+            },
+            {
+                "displayName": "Konkrete",
+                "projectId": "410295",
+                "fileId": "5453385"
             },
             {
                 "displayName": "Hostile Neural Networks",
