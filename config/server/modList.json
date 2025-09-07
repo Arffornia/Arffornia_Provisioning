@@ -1485,6 +1485,11 @@
                 "displayName": "GlitchCore",
                 "projectId": "955399",
                 "fileId": "5660740"
+            },
+            {
+                "displayName": "WorldEdit",
+                "projectId": "225608",
+                "fileId": "5830452"
             }
         ],
         "modrinth": [

@@ -152,11 +152,6 @@
                 "fileId": "5729705"
             },
             {
-                "displayName": "BisectHosting Server Integration Menu [NEOFORGE]",
-                "projectId": "1084468",
-                "fileId": "5762091"
-            },
-            {
                 "displayName": "Not Enough Glyphs",
                 "projectId": "1023517",
                 "fileId": "6447277"
@@ -1383,11 +1378,6 @@
                 "fileId": "6552491"
             },
             {
-                "displayName": "FTB Promoter",
-                "projectId": "1194001",
-                "fileId": "6299466"
-            },
-            {
                 "displayName": "NaNny (Fix NaN Health / Absorption)",
                 "projectId": "634392",
                 "fileId": "5728615"
@@ -1536,6 +1526,11 @@
                 "displayName": "GlitchCore",
                 "projectId": "955399",
                 "fileId": "5660740"
+            },
+            {
+                "displayName": "WorldEdit",
+                "projectId": "225608",
+                "fileId": "5830452"
             }
         ],
         "modrinth": [],
