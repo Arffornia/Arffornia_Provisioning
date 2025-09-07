@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-07T13:28:42.266Z",
+  "generatedAt": "2025-09-07T14:14:22.073Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -1774,6 +1774,11 @@
     {
       "path": "mods/rgp-client-1.0.10+mc1.21.1.jar",
       "hash": "5b30d6defd138b0314923c5d2dd0c7ef7c7ff67d",
+      "override": true
+    },
+    {
+      "path": "ops.json",
+      "hash": "5b6b4983ee8a13687313731b41712fe96818fa58",
       "override": true
     },
     {
