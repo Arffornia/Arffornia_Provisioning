@@ -582,6 +582,11 @@
                 "fileId": "6280316"
             },
             {
+                "displayName": "Jump Over Fences",
+                "projectId": "423421",
+                "fileId": "5470124"
+            },
+            {
                 "displayName": "Sophisticated Storage",
                 "projectId": "619320",
                 "fileId": "6538426"
@@ -712,6 +717,11 @@
                 "fileId": "6068889"
             },
             {
+                "displayName": "Extreme sound muffler - (Neo)Forge",
+                "projectId": "363363",
+                "fileId": "6526588"
+            },
+            {
                 "displayName": "Repurposed Structures (Neoforge/Forge)",
                 "projectId": "368293",
                 "fileId": "6540278"
@@ -735,6 +745,11 @@
                 "displayName": "YUNG's Better Desert Temples (NeoForge)",
                 "projectId": "1015114",
                 "fileId": "6276955"
+            },
+            {
+                "displayName": "AE2: Crafting Tree",
+                "projectId": "1086241",
+                "fileId": "6318809"
             },
             {
                 "displayName": "Statues",
@@ -842,6 +857,11 @@
                 "fileId": "5978711"
             },
             {
+                "displayName": "Colorful Hearts",
+                "projectId": "854213",
+                "fileId": "5746319"
+            },
+            {
                 "displayName": "Wither Skeleton Tweaks",
                 "projectId": "255902",
                 "fileId": "6428057"
@@ -940,6 +960,11 @@
                 "displayName": "Lithostitched",
                 "projectId": "936015",
                 "fileId": "6541324"
+            },
+            {
+                "displayName": "Neat",
+                "projectId": "238372",
+                "fileId": "5838045"
             },
             {
                 "displayName": "YUNG's Bridges (NeoForge)",
@@ -1090,6 +1115,11 @@
                 "displayName": "playerAnimator",
                 "projectId": "658587",
                 "fileId": "6024462"
+            },
+            {
+                "displayName": "Simple Weather",
+                "projectId": "983390",
+                "fileId": "5984086"
             },
             {
                 "displayName": "OpenBlocks Trophies",
