@@ -1536,6 +1536,36 @@
                 "displayName": "Simple Discord Rich Presence",
                 "projectId": "334853",
                 "fileId": "5577776"
+            },
+            {
+                "displayName": "William Wythers' Expanded Ecosphere",
+                "projectId": "490686",
+                "fileId": "5909040"
+            },
+            {
+                "displayName": "Tectonic",
+                "projectId": "686836",
+                "fileId": "6910225"
+            },
+            {
+                "displayName": "Regions Unexplored",
+                "projectId": "659110",
+                "fileId": "6273893"
+            },
+            {
+                "displayName": "Lithosphere",
+                "projectId": "995122",
+                "fileId": "6670767"
+            },
+            {
+                "displayName": "Terralith",
+                "projectId": "513688",
+                "fileId": "6090387"
+            },
+            {
+                "displayName": "Nature's Spirit",
+                "projectId": "1044992",
+                "fileId": "6962784"
             }
         ],
         "modrinth": [],
