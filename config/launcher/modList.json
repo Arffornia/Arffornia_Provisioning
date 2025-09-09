@@ -1551,6 +1551,11 @@
                 "displayName": "Nature's Spirit",
                 "projectId": "1044992",
                 "fileId": "6962784"
+            },
+            {
+                "displayName": "Village Spawn Point",
+                "projectId": "347381",
+                "fileId": "6429245"
             }
         ],
         "modrinth": [],
