@@ -1531,6 +1531,11 @@
                 "displayName": "WorldEdit",
                 "projectId": "225608",
                 "fileId": "5830452"
+            },
+            {
+                "displayName": "Simple Discord Rich Presence",
+                "projectId": "334853",
+                "fileId": "5577776"
             }
         ],
         "modrinth": [],
