@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-07T17:18:38.954Z",
+  "generatedAt": "2025-09-09T19:24:37.631Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -39,6 +39,11 @@
     {
       "path": "config/fancymenu/options.txt",
       "hash": "d23b16c9ef7441f25e5061f19d5bf8bd73d5e211",
+      "override": true
+    },
+    {
+      "path": "config/sdrp-common.json",
+      "hash": "60c8109a1091346529ec7fbcdc8b717ffe811d4e",
       "override": true
     },
     {
