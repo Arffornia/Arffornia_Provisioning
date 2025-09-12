@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-09T21:22:12.058Z",
+  "generatedAt": "2025-09-12T19:12:18.520Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -14,6 +14,76 @@
     {
       "path": "config/bfcrmod-common.toml",
       "hash": "52dccaa3aa52f6f8fb6f2f5b0bbb15492fbc3ca1",
+      "override": true
+    },
+    {
+      "path": "config/bluemap/core.conf",
+      "hash": "86ea725c42308e9c7e7242f2e381365dc50265a2",
+      "override": true
+    },
+    {
+      "path": "config/bluemap/maps/world.conf",
+      "hash": "4ec16134791b10045a986c229c41eef68a62339e",
+      "override": true
+    },
+    {
+      "path": "config/bluemap/maps/world_stellaris_mars.conf",
+      "hash": "0b610832d82698e2c2dd6738c27e4c30d100278e",
+      "override": true
+    },
+    {
+      "path": "config/bluemap/maps/world_stellaris_mercury.conf",
+      "hash": "e7a9a8b0aad952217cda4d52da8d66f4de98d926",
+      "override": true
+    },
+    {
+      "path": "config/bluemap/maps/world_stellaris_moon.conf",
+      "hash": "50d6b8a63e6bf55e85aac3ba958369584facffdd",
+      "override": true
+    },
+    {
+      "path": "config/bluemap/maps/world_stellaris_venus.conf",
+      "hash": "2123512cda9b75b5a1245297484d86cd599a2387",
+      "override": true
+    },
+    {
+      "path": "config/bluemap/maps/world_the_end.conf",
+      "hash": "e5a83882225d594e55955cf9f2b70d6fac58f9c9",
+      "override": true
+    },
+    {
+      "path": "config/bluemap/maps/world_the_nether.conf",
+      "hash": "da8b315afd8fdfc4a5fd4770d13289b09a105e33",
+      "override": true
+    },
+    {
+      "path": "config/bluemap/maps/world_twilightforest_twilight_forest.conf",
+      "hash": "2b442bc1c010bf9cfe32c3917245a7d830db7279",
+      "override": true
+    },
+    {
+      "path": "config/bluemap/plugin.conf",
+      "hash": "14fc792dfe7e9b876f8edade8e15b18f0f9b58a8",
+      "override": true
+    },
+    {
+      "path": "config/bluemap/storages/file.conf",
+      "hash": "4b4adbb713ea3df6f27238b8e1fd1c0fdd05ec8e",
+      "override": true
+    },
+    {
+      "path": "config/bluemap/storages/sql.conf",
+      "hash": "1f201aecca2c0a48f42ec2fa66771642cf594a4f",
+      "override": true
+    },
+    {
+      "path": "config/bluemap/webapp.conf",
+      "hash": "a27bb737c4658b94f5b8dce3013ae83a8c484dc1",
+      "override": true
+    },
+    {
+      "path": "config/bluemap/webserver.conf",
+      "hash": "a43ea62fb2458b2aca5fe2fed7a6e425c973f16d",
       "override": true
     },
     {
