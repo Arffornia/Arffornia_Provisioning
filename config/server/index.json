@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-13T08:55:51.471Z",
+  "generatedAt": "2025-09-13T09:15:56.509Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -23,42 +23,42 @@
     },
     {
       "path": "config/bluemap/maps/world.conf",
-      "hash": "4ec16134791b10045a986c229c41eef68a62339e",
+      "hash": "886888cfd20556c62a8a0b06bd7b9adc3ec01db0",
       "override": true
     },
     {
       "path": "config/bluemap/maps/world_stellaris_mars.conf",
-      "hash": "0b610832d82698e2c2dd6738c27e4c30d100278e",
+      "hash": "e348156758bf2ba46e975046a0642fa46ad32f7f",
       "override": true
     },
     {
       "path": "config/bluemap/maps/world_stellaris_mercury.conf",
-      "hash": "e7a9a8b0aad952217cda4d52da8d66f4de98d926",
+      "hash": "eaa8808196d884ddcff5dfaf509106e65bbda560",
       "override": true
     },
     {
       "path": "config/bluemap/maps/world_stellaris_moon.conf",
-      "hash": "50d6b8a63e6bf55e85aac3ba958369584facffdd",
+      "hash": "618ab66c915f1f8358a5bf274aea9a8208664791",
       "override": true
     },
     {
       "path": "config/bluemap/maps/world_stellaris_venus.conf",
-      "hash": "2123512cda9b75b5a1245297484d86cd599a2387",
+      "hash": "19c795a160fd5752a195c682d166b1c37eb650e6",
       "override": true
     },
     {
       "path": "config/bluemap/maps/world_the_end.conf",
-      "hash": "e5a83882225d594e55955cf9f2b70d6fac58f9c9",
+      "hash": "09266cbd818230aeea8d08386242cabfae43a5a8",
       "override": true
     },
     {
       "path": "config/bluemap/maps/world_the_nether.conf",
-      "hash": "da8b315afd8fdfc4a5fd4770d13289b09a105e33",
+      "hash": "785e42377ef740029b49a429226a77d00bcf52e3",
       "override": true
     },
     {
       "path": "config/bluemap/maps/world_twilightforest_twilight_forest.conf",
-      "hash": "2b442bc1c010bf9cfe32c3917245a7d830db7279",
+      "hash": "47fa73c119b4b4db277d40a03470c323f458fab9",
       "override": true
     },
     {
