@@ -1509,7 +1509,12 @@
             {
                 "displayName": "Village Spawn Point",
                 "projectId": "347381",
-                "fileId": "6429245"
+                "fileId": "6239407"
+            },
+            {
+                "displayName": "BlueMap",
+                "projectId": "406463",
+                "fileId": "6239407"
             }
         ],
         "modrinth": [
