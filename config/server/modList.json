@@ -1515,6 +1515,11 @@
                 "displayName": "BlueMap",
                 "projectId": "406463",
                 "fileId": "6239407"
+            },
+            {
+                "displayName": "Tesseract",
+                "projectId": "379232",
+                "fileId": "6865558"
             }
         ],
         "modrinth": [

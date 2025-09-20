@@ -1556,6 +1556,11 @@
                 "displayName": "Village Spawn Point",
                 "projectId": "347381",
                 "fileId": "6429245"
+            },
+            {
+                "displayName": "Tesseract",
+                "projectId": "379232",
+                "fileId": "6865558"
             }
         ],
         "modrinth": [],
