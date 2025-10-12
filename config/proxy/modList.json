@@ -7,6 +7,22 @@
                 "displayName": "LuckPerms",
                 "versionId": "vtXGoeps"
             }
+        ],
+        "github-releases": [
+            {
+                "displayName": "NuVotifier",
+                "owner": "NuVotifier",
+                "repoName": "NuVotifier",
+                "tag": "v2.7.3",
+                "assetName": "nuvotifier.jar"
+            },
+            {
+                "displayName": "Arffornia Proxy",
+                "owner": "Arffornia",
+                "repoName": "Arffornia_Proxy",
+                "tag": "latest",
+                "assetName": "arffornia_proxy.jar"
+            }
         ]
     }
 }
