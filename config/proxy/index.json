@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-14T20:00:53.613Z",
+  "generatedAt": "2025-10-18T10:46:38.371Z",
   "files": [
     {
       "path": "forwarding.secret.txt",
@@ -7,7 +7,7 @@
       "override": true
     },
     {
-      "path": "plugins/luckperms/arffornia_proxy/config.properties",
+      "path": "plugins/arffornia_proxy/config.properties",
       "hash": "ec5c28e06550a48001006f721b98c0dc40861653",
       "override": true
     },
@@ -17,17 +17,17 @@
       "override": true
     },
     {
-      "path": "plugins/luckperms/nuvotifier/config.toml",
+      "path": "plugins/nuvotifier/config.toml",
       "hash": "6cb2e21949b84d393cdfd942eaf10c642350188c",
       "override": true
     },
     {
-      "path": "plugins/luckperms/nuvotifier/rsa/private.key",
+      "path": "plugins/nuvotifier/rsa/private.key",
       "hash": "66f59dcea538b08d3f5065f85d6f3b8697b9c21d",
       "override": true
     },
     {
-      "path": "plugins/luckperms/nuvotifier/rsa/public.key",
+      "path": "plugins/nuvotifier/rsa/public.key",
       "hash": "a9aebb11aff28f3b60522ae7589d4b8c08896ff5",
       "override": true
     },
