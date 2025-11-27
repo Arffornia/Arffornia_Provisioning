@@ -1623,11 +1623,6 @@
                 "fileId": "7211391"
             },
             {
-                "displayName": "Cataclysm: Spellbooks",
-                "projectId": "1099461",
-                "fileId": "6925079"
-            },
-            {
                 "displayName": "L_Ender 's Cataclysm",
                 "projectId": "551586",
                 "fileId": "6906997"
@@ -1638,19 +1633,14 @@
                 "fileId": "6583756"
             },
             {
-                "displayName": "Ace's Spell Utils",
-                "projectId": "1299492",
-                "fileId": "6925303"
-            },
-            {
                 "displayName": "Valhelsia Core",
                 "projectId": "416935",
                 "fileId": "6296775"
             },
             {
-                "displayName": "AzureLib",
-                "projectId": "817423",
-                "fileId": "7127903"
+                "displayName": "Lionfish API",
+                "projectId": "1001614",
+                "fileId": "6168249"
             }
         ],
         "modrinth": [
