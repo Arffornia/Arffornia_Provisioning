@@ -1510,6 +1510,36 @@
                 "displayName": "Tesseract",
                 "projectId": "379232",
                 "fileId": "6865558"
+            },
+            {
+                "displayName": "Mystical Agriculture",
+                "projectId": "246640",
+                "fileId": "7180808"
+            },
+            {
+                "displayName": "Immersive Engineering",
+                "projectId": "231951",
+                "fileId": "6733669"
+            },
+            {
+                "displayName": "Alshanex's Familiars",
+                "projectId": "1171602",
+                "fileId": "6825732"
+            },
+            {
+                "displayName": "Tiny Dragons",
+                "projectId": "1169945",
+                "fileId": "6219375"
+            },
+            {
+                "displayName": "Chest With Legs",
+                "projectId": "1176793",
+                "fileId": "7210594"
+            },
+            {
+                "displayName": "FamiliarsLib",
+                "projectId": "1316458",
+                "fileId": "6824093"
             }
         ],
         "modrinth": [
