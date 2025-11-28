@@ -389,7 +389,7 @@
             {
                 "displayName": "Iron's Spells 'n Spellbooks",
                 "projectId": "855414",
-                "fileId": "6556085"
+                "fileId": "7114204"
             },
             {
                 "displayName": "Sophisticated Core",
@@ -1540,12 +1540,81 @@
                 "displayName": "FamiliarsLib",
                 "projectId": "1316458",
                 "fileId": "6824093"
+            },
+            {
+                "displayName": "Forbidden and Arcanus",
+                "projectId": "309858",
+                "fileId": "6331424"
+            },
+            {
+                "displayName": "Translocators 1.8.+",
+                "projectId": "247695",
+                "fileId": "6045211"
+            },
+            {
+                "displayName": "Project Red - Core",
+                "projectId": "228702",
+                "fileId": "7211385"
+            },
+            {
+                "displayName": "Project Red - Expansion",
+                "projectId": "229048",
+                "fileId": "7211386"
+            },
+            {
+                "displayName": "Project Red - Exploration",
+                "projectId": "229049",
+                "fileId": "7211387"
+            },
+            {
+                "displayName": "Project Red - Fabrication",
+                "projectId": "230111",
+                "fileId": "7211388"
+            },
+            {
+                "displayName": "Project Red - Illumination",
+                "projectId": "229046",
+                "fileId": "7211389"
+            },
+            {
+                "displayName": "Project Red - Integration",
+                "projectId": "229045",
+                "fileId": "7211390"
+            },
+            {
+                "displayName": "Project Red - Transmission",
+                "projectId": "478939",
+                "fileId": "7211391"
+            },
+            {
+                "displayName": "L_Ender 's Cataclysm",
+                "projectId": "551586",
+                "fileId": "6906997"
+            },
+            {
+                "displayName": "CB Multipart",
+                "projectId": "258426",
+                "fileId": "6583756"
+            },
+            {
+                "displayName": "Valhelsia Core",
+                "projectId": "416935",
+                "fileId": "6296775"
+            },
+            {
+                "displayName": "Lionfish API",
+                "projectId": "1001614",
+                "fileId": "6168249"
             }
         ],
         "modrinth": [
             {
                 "displayName": "NeoForwarding",
                 "versionId": "tdpr4TRc"
+            },
+            {
+                "displayName": "CC: Tweaked",
+                "versionId": "VfbdrEu0"
             }
         ],
         "github-releases": [
