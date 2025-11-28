@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-28T11:56:47.913Z",
+  "generatedAt": "2025-11-28T20:36:38.430Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -83,7 +83,7 @@
     },
     {
       "path": "config/bluemap/webserver.conf",
-      "hash": "a43ea62fb2458b2aca5fe2fed7a6e425c973f16d",
+      "hash": "745db7431904a725f6e022315917803312d5638a",
       "override": true
     },
     {
