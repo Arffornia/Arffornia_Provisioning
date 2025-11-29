@@ -1605,6 +1605,11 @@
                 "displayName": "Lionfish API",
                 "projectId": "1001614",
                 "fileId": "6168249"
+            },
+            {
+                "displayName": "Discord Integration Forge",
+                "projectId": "324952",
+                "fileId": "5426795"
             }
         ],
         "modrinth": [
@@ -1615,11 +1620,6 @@
             {
                 "displayName": "CC: Tweaked",
                 "versionId": "VfbdrEu0"
-            },
-            {
-                "displayName": "Discord Integration Forge",
-                "projectId": "324952",
-                "fileId": "5426795"
             }
         ],
         "github-releases": [
