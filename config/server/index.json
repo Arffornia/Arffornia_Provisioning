@@ -1,9 +1,14 @@
 {
-  "generatedAt": "2025-11-28T20:36:38.430Z",
+  "generatedAt": "2025-11-29T13:09:38.306Z",
   "files": [
     {
       "path": "config/.gitkeep",
       "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "override": true
+    },
+    {
+      "path": "config/Discord-Integration.toml",
+      "hash": "1f46e0ed674c26120346c3bc0912bd1a911fb469",
       "override": true
     },
     {
