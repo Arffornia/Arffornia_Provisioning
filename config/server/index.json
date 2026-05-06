@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-29T13:47:18.922Z",
+  "generatedAt": "2026-05-06T09:28:12.569Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -104,6 +104,11 @@
     {
       "path": "config/neoforwarding-server.toml",
       "hash": "9be1fd0e0f88e7a48bc3a624022a1156b5cbbefa",
+      "override": true
+    },
+    {
+      "path": "dailyrewards.json",
+      "hash": "597ba5c5a5a7723526f90987dba6b32e374bbae9",
       "override": true
     },
     {
@@ -1858,7 +1863,7 @@
     },
     {
       "path": "world/ftbessentials/data.snbt",
-      "hash": "5ce84e9c4289af8b03d70ca14e80221d2f6f0924",
+      "hash": "219f44015759eb95030540eec4bd9be73a09b438",
       "override": true
     }
   ]
