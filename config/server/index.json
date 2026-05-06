@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T09:28:12.569Z",
+  "generatedAt": "2026-05-06T09:29:38.871Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -104,11 +104,6 @@
     {
       "path": "config/neoforwarding-server.toml",
       "hash": "9be1fd0e0f88e7a48bc3a624022a1156b5cbbefa",
-      "override": true
-    },
-    {
-      "path": "dailyrewards.json",
-      "hash": "597ba5c5a5a7723526f90987dba6b32e374bbae9",
       "override": true
     },
     {
