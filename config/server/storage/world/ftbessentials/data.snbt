@@ -34,11 +34,30 @@
 			cooldown: 0L
 			items: [{ count: 16, id: "minecraft:cooked_beef" }]
 		}
-		Journalier: {
+		Starter-kit: {
 			cooldown: 86400L
 			items: [
 				{ count: 16, id: "minecraft:cooked_beef" }
 				{ count: 1, id: "minecraft:water_bucket" }
+			]
+		}
+		Electrician {
+			cooldown: 86400L
+			items: [
+				{ count: 32, id: "immersiveengineering:wirecoil_electrum" }
+				{ count: 1, id: "immersiveengineering:wirecutter" }
+				{ count: 8, id: "immersiveengineering:connector_mv_relay" }
+				{ count: 16, id: "pneumaticcraft:reinforced_pressure_tube" }
+				{ count: 1, id: "create:wrench" }
+				{ count: 16, id: "create:shaft" }
+				{ count: 24, id: "mekanism:elite_universal_cable" }
+				{ count: 16, id: "mekanism:elite_logistical_cable" }
+				{ count: 16, id: "mekanism:elite_mechanical_cable" }
+				{ count: 16, id: "ae2:fluix_smart_cable" }
+				{ count: 8, id: "ae2:quartz_fiber" }
+				{ count: 2, id: "minecraft:comparator" }
+				{ count: 8, id: "minecraft:repeater" }
+				{ count: 32, id: "minecraft:redstone" }
 			]
 		}
 	}
