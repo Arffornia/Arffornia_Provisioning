@@ -1641,6 +1641,11 @@
                 "displayName": "Lionfish API",
                 "projectId": "1001614",
                 "fileId": "6168249"
+            },
+            {
+                "displayName": "Iris Shaders",
+                "projectId": "455508",
+                "fileId": "6661598"
             }
         ],
         "modrinth": [
