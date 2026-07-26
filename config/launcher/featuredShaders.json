@@ -1,0 +1,37 @@
+{
+  "featured": [
+    {
+      "modrinthId": "complementary-reimagined",
+      "badge": {
+        "fr": "⭐ Recommandé",
+        "en": "⭐ Recommended"
+      },
+      "customDescription": {
+        "fr": "Le meilleur compromis graphismes/performance testé et approuvé pour Arffornia.",
+        "en": "The best graphics and performance balance tested and approved for Arffornia."
+      }
+    },
+    {
+      "modrinthId": "bsl-shaders",
+      "badge": {
+        "fr": "🚀 Ultra Optimisé",
+        "en": "🚀 Fast & Fluid"
+      },
+      "customDescription": {
+        "fr": "Un shader très fluide, idéal pour les configurations moyennes.",
+        "en": "A highly optimized shader pack, ideal for mid-range systems."
+      }
+    },
+    {
+      "modrinthId": "rethinking-voxels",
+      "badge": {
+        "fr": "💡 Ray Tracing Voxels",
+        "en": "💡 Voxel Ray Tracing"
+      },
+      "customDescription": {
+        "fr": "Génère de la lumière volumétrique réaliste et des ombres dynamiques.",
+        "en": "Generates realistic volumetric lighting and dynamic shadow casting."
+      }
+    }
+  ]
+}
