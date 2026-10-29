@@ -61,8 +61,6 @@ make docker
   server-side edits to synced configs do not survive a restart.
 - The Arffornia mod and proxy plugin are pinned to GitHub `tag: latest`.
 
-- `migrateOnStartup` in `config/server/storage/config/arffornia-common.toml` is `${CFG_MIGRATE_ON_STARTUP}`, unquoted (a TOML boolean). Infra sets it to `false` (`k8s/config/arffornia/server/base/config.yaml`, playtest pack). One-shot migration: set it to `"true"` for one boot, then back to `"false"`. Unset leaves invalid TOML.
-
 ## Related repos
 - Arffornia/Nexus_Mods — sync library (`@arffornia/nexus_mods`).
 - Arffornia/Arffornia_Launcher_V.5.2 — reads `config/launcher/`.

@@ -45,7 +45,7 @@ docker run --rm -v "$(pwd)/data:/data" -e KIND=server config-updater:dev
 
 ### Secrets and placeholders
 No secret is committed. Files in `storage/` contain `${CFG_*}` placeholders (for example
-`${CFG_DB_PASSWORD}`). They are replaced at server start by the itzg image (`REPLACE_ENV_VARIABLES`)
+`${CFG_SVC_PASSWORD}`). They are replaced at server start by the itzg image (`REPLACE_ENV_VARIABLES`)
 from Kubernetes Secrets backed by Vault (infra repo). Launcher copies keep placeholders or empty values.
 
 ## Changing the modpack
