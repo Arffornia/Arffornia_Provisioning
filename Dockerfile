@@ -1,5 +1,6 @@
 # ---- build: compile TypeScript with dev dependencies ----
-FROM node:22.23.4-alpine3.23 AS build
+# Runs on the builder's own platform: the compiled JavaScript is the same for every target.
+FROM --platform=$BUILDPLATFORM node:22.23.4-alpine3.23 AS build
 
 WORKDIR /app
 
