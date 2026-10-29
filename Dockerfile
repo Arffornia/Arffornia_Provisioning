@@ -9,7 +9,7 @@ COPY . .
 RUN npm run build
 
 ENV INSTALL_BASE_PATH="/data"
-ENV BASE_URL="https://raw.githubusercontent.com/Arffornia/Arffornia_Network/refs/heads/main/"
+ENV BASE_URL="https://raw.githubusercontent.com/Arffornia/Arffornia_Provisioning/refs/heads/main/"
 ENV KIND="server"
 ENV MODS_DIR_NAME="mods"
 
