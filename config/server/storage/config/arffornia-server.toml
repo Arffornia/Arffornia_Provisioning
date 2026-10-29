@@ -1,0 +1,17 @@
+#Arffornia API service account (dedicated server only)
+[api]
+	#The service account Client ID for API authentication.
+	clientId = "${CFG_SVC_ID}"
+	#The service account Client Secret for API authentication. Keep this file private.
+	clientSecret = "${CFG_SVC_PASSWORD}"
+	#If true, the mod will attempt to migrate vanilla recipes for existing items on the next server startup. This should be manually set to false after a successful run.
+	migrateOnStartup = true
+
+#Database configuration for the Arffornia web shop integration (dedicated server only)
+[database]
+	host = "postgres-cluster.postgres.svc.cluster.local"
+	#Range: 1 ~ 65535
+	port = 5432
+	database = "arffornia"
+	username = "${CFG_DB_USERNAME}"
+	password = "${CFG_DB_PASSWORD}"
