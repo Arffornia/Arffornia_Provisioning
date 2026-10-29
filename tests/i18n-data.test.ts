@@ -1,4 +1,4 @@
-// Player-visible text shipped as data must be translatable (docs ADR 0008, "Player-visible text in data
+// Player-visible text shipped as data must be translatable (docs ADR 0009, "Player-visible text in data
 // and APIs"):
 // - Arffornia JSON files (config/<target>/*.json): text fields are localized objects { "en": ..., "fr": ... };
 // - KubeJS scripts never hold player text: they use Text.translatable(key) with keys in
