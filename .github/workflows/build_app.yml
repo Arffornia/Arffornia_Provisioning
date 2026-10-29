@@ -62,6 +62,14 @@ jobs:
         with:
           cosign-release: 'v2.2.4'
 
+      # QEMU runs the arm64 runtime stage (`npm ci --omit=dev`) on the amd64 runner. The build
+      # stage runs natively (`--platform=$BUILDPLATFORM` in the Dockerfile).
+      # https://github.com/docker/setup-qemu-action
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@99012661954931238ded8c8b007157a8430204e1 # v4.4.0
+        with:
+          platforms: arm64
+
       # Set up BuildKit Docker container builder to be able to build
       # multi-platform images and export cache
       # https://github.com/docker/setup-buildx-action
@@ -100,6 +108,7 @@ jobs:
         uses: docker/build-push-action@0565240e2d4ab88bba5387d719585280857ece09 # v5.0.0
         with:
           file: ${{ env.DOCKERFILE_NAME }}
+          platforms: linux/amd64,linux/arm64
           push: ${{ github.event_name != 'pull_request' }}
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
