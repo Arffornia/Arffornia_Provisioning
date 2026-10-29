@@ -38,6 +38,9 @@ make docker
 
 ## Hard rules
 - English for code, docs, commits, issues.
+- Player-visible text is bilingual (en/fr): text fields of `config/<target>/*.json` are `{ "en": ..., "fr": ... }`
+  objects; KubeJS scripts use `Text.translatable(key)` with keys in `kubejs/assets/<ns>/lang/{en_us,fr_fr}.json`
+  (no `§` codes); keep the launcher and server KubeJS copies identical. Enforced by `tests/i18n-data.test.ts`.
 - Nexus_Mods is the owner's library: improve it (in its repo), never replace it.
 - Never commit secret values, never push to `main`, never merge, tag or release.
 - Infra (TheGostsniperfr/infra) is a separate repo: do not change it from here.
