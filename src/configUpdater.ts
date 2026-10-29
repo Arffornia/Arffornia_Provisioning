@@ -10,7 +10,7 @@ import {
     verifyFilesOnDisk,
 } from "./updateCheck";
 
-export const DEFAULT_BASE_URL = "https://raw.githubusercontent.com/Arffornia/Arffornia_Network/refs/heads/main/";
+export const DEFAULT_BASE_URL = "https://raw.githubusercontent.com/Arffornia/Arffornia_Provisioning/refs/heads/main/";
 
 /**
  * Sync one kind of configuration (mod list + external files) into `installBasePath`.
