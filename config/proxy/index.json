@@ -12,6 +12,11 @@
       "override": true
     },
     {
+      "path": "plugins/arffornia_proxy/motd.yml",
+      "hash": "00a3e19bbbf7b23892881264159ce268ad9ff6dd",
+      "override": true
+    },
+    {
       "path": "plugins/luckperms/config.yml",
       "hash": "2df0b3d6509304f944d2fa38522ac9e8829b5a96",
       "override": true
