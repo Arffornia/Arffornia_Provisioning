@@ -9,7 +9,7 @@
 #Configuration for the Arffornia API connection
 [api]
 	#The base URL for the Arffornia API.
-	baseUrl = "https://arffornia.com/api"
+	baseUrl = "${CFG_API_BASE_URL}"
 	#The service account Client ID for API authentication.
 	clientId = "${CFG_SVC_ID}"
 	#The service account Client Secret for API authentication. This should be kept private.
