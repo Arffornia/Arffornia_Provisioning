@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T21:14:54.893Z",
+  "generatedAt": "2026-10-31T21:25:35.057Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -157,8 +157,28 @@
       "override": true
     },
     {
+      "path": "kubejs/assets/kubejs/lang/en_us.json",
+      "hash": "54b919ec052b1f5716727772471256244a8a616f",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/kubejs/lang/fr_fr.json",
+      "hash": "2480e4bd23f70acc186be273049cd419f4a0a235",
+      "override": true
+    },
+    {
       "path": "kubejs/assets/sdrp/ae2.png",
       "hash": "ee2af198b72d6c334db5e541565d66f12858a0d8",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/lang/en_us.json",
+      "hash": "8e47c76d2589373d6eaebde1635f27f8c9b93986",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/lang/fr_fr.json",
+      "hash": "1a6421ad1eaa36f90960877e8426c91fce4e378b",
       "override": true
     },
     {
@@ -228,7 +248,7 @@
     },
     {
       "path": "kubejs/client_scripts/03_tooltips.js",
-      "hash": "73a65816f28a59d0b6ff64a202974ee897778d02",
+      "hash": "e60a0cada7659404eeaecc784697cfbfaced9122",
       "override": true
     },
     {
