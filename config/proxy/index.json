@@ -13,7 +13,7 @@
     },
     {
       "path": "plugins/arffornia_proxy/motd.yml",
-      "hash": "00a3e19bbbf7b23892881264159ce268ad9ff6dd",
+      "hash": "8d41695c935290a9b616524bc7a7ee9def000960",
       "override": true
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "path": "velocity.toml",
-      "hash": "dec003f2e37cd2d7b5c859a81b6896fe59018976",
+      "hash": "13fb716d058e63c265bd9a80ffbdb36b37d830b3",
       "override": true
     }
   ]

@@ -1,11 +1,21 @@
 # Arffornia server-list MOTD (the two lines under the server name in Multiplayer).
 #
-# Source of truth: Arffornia_Provisioning config/proxy/storage/plugins/arffornia_proxy/motd.yml.
-# Edit it there with a PR; the proxy picks it up at its next start, and also reloads it
-# live whenever the file on disk changes. Preview any day in game or in the console:
-#   /motdpreview 2026-12-25 fr
+# THIS FILE IS THE ONLY SOURCE OF THE MOTD.
+#   - The provisioning init container copies it to plugins/arffornia_proxy/motd.yml on the
+#     proxy, and the Arffornia_Proxy plugin reads it. The plugin jar ships no copy.
+#   - velocity.toml's `motd` is never shown (the plugin always sets the description); it is a
+#     neutral placeholder because Velocity requires the key. Do not put content there.
+#   - If this file is missing or invalid, players see the bare word "Arffornia" and the proxy
+#     logs an error; an invalid edit keeps the last valid version.
+#
+# To edit: change this file in a PR (the index hash is refreshed by CI on main, or run
+# generateIndexes.ts). The proxy picks it up at its next start, and reloads it live when the
+# file changes on disk. Preview any day in game or in the console:
+#   /motdpreview 2027-07-26 fr
 #
 # Text format: MiniMessage, https://docs.advntr.dev/minimessage/format.html
+# Extra tag: <age:YYYY> renders the number of years from YYYY to the displayed day
+# (<age:2016> is 10 in 2026).
 # Keep each line short (about 45 characters), the server list is narrow.
 #
 # Languages: the server-list ping does not say which language the player uses. The proxy
@@ -72,12 +82,11 @@ entries:
     en: "<white>Minecraft 2 is out! <dark_gray>(No.)"
     fr: "<white>Minecraft 2 est sorti ! <dark_gray>(Non.)"
   - id: anniversary
-    # Placeholder: the Arffornia_Website repository was created on 2024-04-03.
-    # Replace with the real opening date of the server.
-    dates: "04-03"
+    # Arffornia was founded on 26 July 2016.
+    dates: "07-26"
     header: "<bold><gradient:#09add3:#f59e0b>Arffornia</gradient></bold> <gold>★</gold> <yellow>happy birthday!</yellow>"
-    en: "<yellow>One more year of builds. Thanks for playing!"
-    fr: "<yellow>Encore une année de builds. Merci de jouer !"
+    en: "<yellow>Arffornia turns <age:2016> today! Thanks!"
+    fr: "<yellow>Arffornia a <age:2016> ans aujourd'hui !"
   - id: fete-de-la-musique
     dates: "06-21"
     en: "<aqua>Music day: note blocks everywhere!"
