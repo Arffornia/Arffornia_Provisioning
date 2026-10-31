@@ -1,7 +1,9 @@
 node_modules/
-package-lock.json
 dist/
-README.md
+config/
+tests/
+.git/
+.github/
+*.md
 LICENSE
 generateIndexes.ts
-.github/
