@@ -1,0 +1,25 @@
+name: Bug report
+description: Something is wrong with the modpack config or the config-updater
+labels: ["type: bug"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Affected kind
+      multiple: true
+      options: [server, proxy, launcher, config-updater image]
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you expected, what happened instead, which mod or file.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: Init container / server / launcher logs. Remove any secret values.
+      render: text

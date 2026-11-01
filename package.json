@@ -1,40 +1,36 @@
 {
-  "name": "@the_gost_sniper/arffornia_network",
+  "name": "arffornia-provisioning",
   "version": "1.0.0",
   "scripts": {
     "test": "jest",
-    "build": "tsc && tsc-alias"
+    "typecheck": "tsc --noEmit -p .",
+    "build": "tsc && tsc-alias",
+    "indexes": "npx --yes ts-node@10.9.2 generateIndexes.ts",
+    "start": "node dist/configUpdater.js"
   },
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "files": [
-    "dist",
-    "README.md"
-  ],
-  "publishConfig": {
-    "access": "public"
-  },
+  "main": "dist/configUpdater.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheGostsniperfr/Typescript_Template.git"
+    "url": "git+https://github.com/Arffornia/Arffornia_Provisioning.git"
   },
   "author": "TheGostsniperfr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheGostsniperfr/Typescript_Template/issues"
+    "url": "https://github.com/Arffornia/Arffornia_Provisioning/issues"
   },
-  "homepage": "https://github.com/TheGostsniperfr/Typescript_Template#readme",
-  "description": "",
+  "homepage": "https://github.com/Arffornia/Arffornia_Provisioning#readme",
+  "description": "Arffornia modpack configuration (server, proxy, launcher) and the config-updater init container.",
   "devDependencies": {
     "@types/jest": "30.0.0",
     "@types/node": "24.7.2",
-    "axios": "1.20.0",
     "jest": "30.2.0",
     "ts-jest": "29.4.5",
     "tsc-alias": "1.8.16",
     "typescript": "5.9.3"
   },
   "dependencies": {
-    "@arffornia/nexus_mods": "1.0.12"
-  }
+    "@arffornia/nexus_mods": "1.0.12",
+    "axios": "1.20.0"
+  },
+  "private": true
 }

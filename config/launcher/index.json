@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T19:59:26.326Z",
+  "generatedAt": "2026-10-31T21:25:35.084Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -13,12 +13,12 @@
     },
     {
       "path": "config/fancymenu/assets/background.png",
-      "hash": "b569d38a860a913424dde4bd1557c062650e74d7",
+      "hash": "44174f1b79c0a6340233738920794491c5837df3",
       "override": true
     },
     {
       "path": "config/fancymenu/assets/logo.png",
-      "hash": "3b592894adf0c9c5efd30505dd1e66d64757b511",
+      "hash": "51f0a4e928908e7d3aa86d706cd018a75ea9c588",
       "override": true
     },
     {
@@ -97,8 +97,28 @@
       "override": true
     },
     {
+      "path": "kubejs/assets/kubejs/lang/en_us.json",
+      "hash": "54b919ec052b1f5716727772471256244a8a616f",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/kubejs/lang/fr_fr.json",
+      "hash": "2480e4bd23f70acc186be273049cd419f4a0a235",
+      "override": true
+    },
+    {
       "path": "kubejs/assets/sdrp/ae2.png",
       "hash": "ee2af198b72d6c334db5e541565d66f12858a0d8",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/lang/en_us.json",
+      "hash": "8e47c76d2589373d6eaebde1635f27f8c9b93986",
+      "override": true
+    },
+    {
+      "path": "kubejs/assets/sdrp/lang/fr_fr.json",
+      "hash": "1a6421ad1eaa36f90960877e8426c91fce4e378b",
       "override": true
     },
     {
@@ -168,7 +188,7 @@
     },
     {
       "path": "kubejs/client_scripts/03_tooltips.js",
-      "hash": "73a65816f28a59d0b6ff64a202974ee897778d02",
+      "hash": "e60a0cada7659404eeaecc784697cfbfaced9122",
       "override": true
     },
     {
