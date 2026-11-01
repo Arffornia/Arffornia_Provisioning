@@ -12,6 +12,11 @@
       "override": true
     },
     {
+      "path": "plugins/arffornia_proxy/motd.yml",
+      "hash": "8d41695c935290a9b616524bc7a7ee9def000960",
+      "override": true
+    },
+    {
       "path": "plugins/luckperms/config.yml",
       "hash": "2df0b3d6509304f944d2fa38522ac9e8829b5a96",
       "override": true
@@ -38,7 +43,7 @@
     },
     {
       "path": "velocity.toml",
-      "hash": "dec003f2e37cd2d7b5c859a81b6896fe59018976",
+      "hash": "13fb716d058e63c265bd9a80ffbdb36b37d830b3",
       "override": true
     }
   ]
