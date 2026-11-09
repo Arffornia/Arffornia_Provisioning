@@ -1,6 +1,6 @@
 # ---- build: compile TypeScript with dev dependencies ----
 # Runs on the builder's own platform: the compiled JavaScript is the same for every target.
-FROM --platform=$BUILDPLATFORM node:22.23.4-alpine3.23 AS build
+FROM --platform=$BUILDPLATFORM node:26.12.1-alpine3.23 AS build
 
 WORKDIR /app
 
@@ -12,7 +12,7 @@ COPY src ./src
 RUN npm run build
 
 # ---- runtime: production dependencies + compiled output only ----
-FROM node:22.23.4-alpine3.23 AS runtime
+FROM node:26.12.1-alpine3.23 AS runtime
 
 ENV NODE_ENV=production
 
