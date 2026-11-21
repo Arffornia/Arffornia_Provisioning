@@ -6,6 +6,7 @@
     "typecheck": "tsc --noEmit -p .",
     "build": "tsc && tsc-alias",
     "indexes": "npx --yes ts-node@10.9.2 generateIndexes.ts",
+    "locks": "npx --yes ts-node@10.9.2 generateModLocks.ts",
     "start": "node dist/configUpdater.js"
   },
   "main": "dist/configUpdater.js",
