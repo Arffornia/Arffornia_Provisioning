@@ -24,12 +24,15 @@ jobs:
       - name: Generate index.json
         run: npx ts-node generateIndexes.ts
 
-      # Resolves only mods added since the last lock; a failure keeps the job red but the
-      # partial lock is still committed (clients resolve the missing entries live).
+      # Resolves only mods added since the last lock (the PR test already demands a full lock);
+      # a failure keeps the job red but the partial lock is still committed.
       - name: Generate modList.lock.json
         id: lock
         continue-on-error: true
         run: npx ts-node generateModLocks.ts
+        env:
+          # Optional. Without it the bot can only reuse locked entries (the proxy refuses runners).
+          CURSEFORGE_API_KEY: ${{ secrets.CURSEFORGE_API_KEY }}
 
       - name: Commit and push changes
         run: |
