@@ -2,7 +2,10 @@ import axios from "axios";
 
 export const LOCK_SCHEMA = 1;
 const USER_AGENT = "Arffornia/Arffornia_Provisioning (modList lock generator)";
-const CURSEFORGE_API = "https://api.curse.tools/v1/cf";
+// The official API needs a key (CurseForge for Studios); the community proxy needs none but
+// refuses datacenter IPs such as GitHub runners.
+const CURSEFORGE_KEY = process.env.CURSEFORGE_API_KEY?.trim() || "";
+const CURSEFORGE_API = CURSEFORGE_KEY ? "https://api.curseforge.com/v1" : "https://api.curse.tools/v1/cf";
 const MODRINTH_API = "https://api.modrinth.com/v2";
 
 export interface LockEntry {
@@ -117,7 +120,11 @@ const MAX_DELAY_MS = 60_000;
 async function getWithRetry(url: string): Promise<{ data: any }> {
     for (let attempt = 1; ; attempt++) {
         try {
-            const rep = await axios.get(url, { headers: { "User-Agent": USER_AGENT }, timeout: 30_000 });
+            const headers: Record<string, string> = { "User-Agent": USER_AGENT };
+            if (CURSEFORGE_KEY && url.startsWith(CURSEFORGE_API)) {
+                headers["x-api-key"] = CURSEFORGE_KEY;
+            }
+            const rep = await axios.get(url, { headers, timeout: 30_000 });
             return { data: url.startsWith(CURSEFORGE_API) ? rep.data.data : rep.data };
         } catch (error: any) {
             const status = error?.response?.status;
