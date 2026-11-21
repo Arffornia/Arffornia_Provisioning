@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:24:09.151Z",
+  "generatedAt": "2026-11-21T20:22:51.838Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -1854,11 +1854,6 @@
     {
       "path": "kubejs/startup_scripts/01_globals.js",
       "hash": "5e7843e8ca343109e48dd1e1ffce8b8b13552adb",
-      "override": true
-    },
-    {
-      "path": "mods/cc-tweaked-1.21.1-forge-1.115.1.jar",
-      "hash": "3fcea43ed79139a7d6f69f2a2ad93db021760171",
       "override": true
     },
     {
