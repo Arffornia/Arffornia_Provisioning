@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "files": {
+    "modrinth:VfbdrEu0": {
+      "path": "mods/cc-tweaked-1.21.1-forge-1.116.2.jar",
+      "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/VfbdrEu0/cc-tweaked-1.21.1-forge-1.116.2.jar",
+      "hashType": "sha1",
+      "hash": "38ebe34bc6bf0d7e549edc088aa2166442257e81",
+      "size": 3104793
+    }
+  }
+}
