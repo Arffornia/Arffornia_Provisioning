@@ -192,3 +192,44 @@ export async function buildLock(
     }
     return { lock: { schema: LOCK_SCHEMA, files: sorted }, resolved: toResolve.length - failed.length, reused, failed };
 }
+
+const HASH_LENGTH: Record<string, number> = { sha1: 40, md5: 32 };
+
+function isUsableEntry(entry: unknown): entry is LockEntry {
+    if (!entry || typeof entry !== "object") return false;
+    const { path, url, hashType, hash } = entry as Partial<LockEntry>;
+    const fileName = typeof path === "string" && path.startsWith("mods/") ? path.slice("mods/".length) : "";
+    return fileName !== "" && fileName !== "." && fileName !== ".." && !/[\\/]/.test(fileName)
+        && typeof url === "string" && url.startsWith("https://")
+        && typeof hashType === "string" && Object.hasOwn(HASH_LENGTH, hashType)
+        && typeof hash === "string" && new RegExp(`^[0-9a-f]{${HASH_LENGTH[hashType]}}$`).test(hash);
+}
+
+/**
+ * Split a mod list into the entries `lock` resolves and the mod list left for the live lookup.
+ * A lock with another schema, or an unusable entry, leaves the entry to the live lookup.
+ */
+export function splitModList(modListJson: string, lock: unknown): { locked: LockEntry[]; remainingJson: string } {
+    const parsed = JSON.parse(modListJson);
+    const l = lock as Partial<ModLock> | null;
+    const files = l?.schema === LOCK_SCHEMA && l.files && typeof l.files === "object" ? l.files : {};
+    const locked: LockEntry[] = [];
+    const take = (key: string): boolean => {
+        const entry = Object.hasOwn(files, key) ? files[key] : undefined;
+        if (!isUsableEntry(entry)) return false;
+        locked.push(entry);
+        return true;
+    };
+
+    const mods = parsed?.mods ?? {};
+    const remaining = {
+        ...parsed,
+        mods: {
+            ...mods,
+            curseforge: (mods.curseforge ?? []).filter(
+                (m: { projectId: string | number; fileId: string | number }) => !take(curseforgeKey(m.projectId, m.fileId))),
+            modrinth: (mods.modrinth ?? []).filter((m: { versionId: string }) => !take(modrinthKey(m.versionId))),
+        },
+    };
+    return { locked, remainingJson: JSON.stringify(remaining) };
+}

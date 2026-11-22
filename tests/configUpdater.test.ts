@@ -119,6 +119,31 @@ describe("config-updater", () => {
         expect(failures[0].stage).toBe("download");
     });
 
+    it("downloads locked mods without asking CurseForge", async () => {
+        setFixture([{ displayName: "Alpha", projectId: "1", fileId: "1" }], []);
+        routes["/config/server/modList.lock.json"] = JSON.stringify({
+            schema: 1,
+            files: { "curseforge:1:1": { path: "mods/alpha.jar", url: "https://127.0.0.1:1/alpha.jar", hashType: "sha1", hash: sha1(JAR), size: JAR.length } },
+        });
+        const lookup = jest.fn(async () => alpha());
+        stubCurseforge(lookup);
+        fs.writeFileSync(path.join(installDir, "mods", "alpha.jar"), JAR);
+
+        const failures = await updateConfig(installDir, baseUrl, "server", "mods");
+
+        expect({ failures, lookups: lookup.mock.calls.length }).toEqual({ failures: [], lookups: 0 });
+    });
+
+    it("resolves every mod online when the lock is missing", async () => {
+        setFixture([{ displayName: "Alpha", projectId: "1", fileId: "1" }], []);
+        const lookup = jest.fn(async () => alpha());
+        stubCurseforge(lookup);
+
+        const failures = await updateConfig(installDir, baseUrl, "server", "mods");
+
+        expect({ failures, lookups: lookup.mock.calls.length }).toEqual({ failures: [], lookups: 1 });
+    });
+
     it("throws when the mod list cannot be fetched", async () => {
         setFixture([], []);
         delete routes["/config/server/modList.json"];
