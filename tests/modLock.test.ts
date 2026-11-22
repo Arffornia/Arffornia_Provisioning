@@ -1,4 +1,4 @@
-import { buildLock, curseforgeKey, LockEntry, LockTarget, lockTargets, LOCK_SCHEMA, plainFileName, retryAfterMs } from "../src/modLock";
+import { buildLock, curseforgeKey, splitModList, LockEntry, LockTarget, lockTargets, LOCK_SCHEMA, plainFileName, retryAfterMs } from "../src/modLock";
 
 const entry = (name: string): LockEntry => ({
     path: `mods/${name}`,
@@ -90,5 +90,45 @@ describe("retryAfterMs", () => {
 describe("plainFileName", () => {
     it.each(["../evil.jar", "a/b.jar", "a\\b.jar", "..", ""])("refuses %p", name => {
         expect(() => plainFileName(name)).toThrow();
+    });
+});
+
+describe("splitModList", () => {
+    const entry: LockEntry = { path: "mods/a.jar", url: "https://cdn.example/a.jar", hashType: "sha1", hash: "a".repeat(40), size: 1 };
+    const modList = JSON.stringify({
+        mods: {
+            curseforge: [{ displayName: "A", projectId: 1, fileId: 2 }, { displayName: "B", projectId: 3, fileId: 4 }],
+            modrinth: [{ displayName: "M", versionId: "v1" }],
+            "github-releases": [{ displayName: "G", owner: "o", repoName: "r", tag: "latest", assetName: "g.jar" }],
+        },
+    });
+
+    it("takes locked entries and leaves the rest for the live lookup", () => {
+        const lock = { schema: LOCK_SCHEMA, files: { [curseforgeKey(1, 2)]: entry, "modrinth:v1": { ...entry, path: "mods/m.jar" } } };
+
+        const { locked, remainingJson } = splitModList(modList, lock);
+
+        expect(locked.map(e => e.path)).toEqual(["mods/a.jar", "mods/m.jar"]);
+        const remaining = JSON.parse(remainingJson).mods;
+        expect(remaining.curseforge.map((m: { displayName: string }) => m.displayName)).toEqual(["B"]);
+        expect(remaining.modrinth).toEqual([]);
+        expect(remaining["github-releases"]).toHaveLength(1);
+    });
+
+    it("ignores a lock with another schema", () => {
+        const { locked } = splitModList(modList, { schema: LOCK_SCHEMA + 1, files: { [curseforgeKey(1, 2)]: entry } });
+
+        expect(locked).toEqual([]);
+    });
+
+    it.each([
+        ["a path outside mods/", { path: "../a.jar" }],
+        ["a nested path", { path: "mods/x/a.jar" }],
+        ["a plain http URL", { url: "http://cdn.example/a.jar" }],
+        ["a malformed hash", { hash: "zz" }],
+    ])("leaves an entry with %s to the live lookup", (_name, patch) => {
+        const { locked } = splitModList(modList, { schema: LOCK_SCHEMA, files: { [curseforgeKey(1, 2)]: { ...entry, ...patch } } });
+
+        expect(locked).toEqual([]);
     });
 });

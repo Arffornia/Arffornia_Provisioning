@@ -1,4 +1,6 @@
-import { NexusMods, LoadJsonFromUrl } from "@arffornia/nexus_mods";
+import * as path from "path";
+import { NexusMods, LoadJsonFromUrl, ModFile, getHashTypeFromStr } from "@arffornia/nexus_mods";
+import { splitModList } from "./modLock";
 import {
     countIndexEntries,
     countModListEntries,
@@ -36,8 +38,22 @@ export async function updateConfig(
     ]);
     const expected = countModListEntries(modListJson) + countIndexEntries(indexJson);
 
+    // Without the lock every CurseForge entry is an API call, and a restart can hit their 429.
+    let lock: unknown = null;
+    try {
+        lock = JSON.parse(await LoadJsonFromUrl(new URL("modList.lock.json", externalFilesUrl).href));
+    } catch (error) {
+        console.log(`No usable mod lock (${(error as Error)?.message ?? error}); resolving every mod online.`);
+    }
+    const { locked, remainingJson } = splitModList(modListJson, lock);
+    console.log(`Mod list: ${locked.length} from the lock, ${countModListEntries(remainingJson)} resolved online.`);
+
     const nexusMods = new NexusMods(installBasePath, callback, modDirName);
-    await nexusMods.loadModsFromJson(modListJson);
+    for (const entry of locked) {
+        const fileName = entry.path.slice("mods/".length);
+        nexusMods.addModFile(new ModFile(path.join(modDirName, fileName), entry.hash, getHashTypeFromStr(entry.hashType), entry.url));
+    }
+    await nexusMods.loadModsFromJson(remainingJson);
     await nexusMods.loadExternalFiles(externalFilesUrl, indexJson);
 
     // Pre-update check: never run the update (which deletes unregistered mods) on a partial list.
