@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T13:40:01.968Z",
+  "generatedAt": "2026-11-23T17:40:51.584Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -198,7 +198,7 @@
     },
     {
       "path": "kubejs/config/client.json",
-      "hash": "d1babee139a1ef572dd6412054cb87500918c6e7",
+      "hash": "29c33ee0eee9a8e310c8b1fd2f1ce49bc7160860",
       "override": true
     },
     {
