@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T11:56:56.820Z",
+  "generatedAt": "2026-11-23T13:30:20.155Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -38,7 +38,7 @@
     },
     {
       "path": "config/fancymenu/options.txt",
-      "hash": "d23b16c9ef7441f25e5061f19d5bf8bd73d5e211",
+      "hash": "3961b5d84e8b99240dfe1d5809dcd5a8aed5359b",
       "override": true
     },
     {
