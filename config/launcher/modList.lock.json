@@ -1086,13 +1086,6 @@
       "hash": "21cf2351e1244b88898fe222048b6acbf3f0e94e",
       "size": 88553
     },
-    "curseforge:367706:6408877": {
-      "path": "mods/fancymenu_neoforge_3.5.0_MC_1.21.1.jar",
-      "url": "https://edge.forgecdn.net/files/6408/877/fancymenu_neoforge_3.5.0_MC_1.21.1.jar",
-      "hashType": "sha1",
-      "hash": "7db4542cc8254c76d60aece81ff8dddc2364674c",
-      "size": 3092018
-    },
     "curseforge:367734:5704328": {
       "path": "mods/pocketstorage-1.2.4+1.21.1-b40.jar",
       "url": "https://edge.forgecdn.net/files/5704/328/pocketstorage-1.2.4%2b1.21.1-b40.jar",
@@ -1456,13 +1449,6 @@
       "hashType": "sha1",
       "hash": "b89d6e5b0acd7f3361a9b662398c54d652ccd695",
       "size": 473726
-    },
-    "curseforge:511770:6412226": {
-      "path": "mods/drippyloadingscreen_neoforge_3.0.12_MC_1.21.1.jar",
-      "url": "https://edge.forgecdn.net/files/6412/226/drippyloadingscreen_neoforge_3.0.12_MC_1.21.1.jar",
-      "hashType": "sha1",
-      "hash": "d54a81ceeb1df321dbb0cbc22fc8c9fa96f9be55",
-      "size": 78125
     },
     "curseforge:513688:6090387": {
       "path": "mods/Terralith_1.21.x_v2.5.8.jar",
@@ -2170,13 +2156,6 @@
       "hashType": "sha1",
       "hash": "393514ab3137e59af56e0387e8a2f33501b18bab",
       "size": 455722
-    },
-    "curseforge:938643:5453382": {
-      "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
-      "url": "https://edge.forgecdn.net/files/5453/382/melody_neoforge_1.0.10_MC_1.21.jar",
-      "hashType": "sha1",
-      "hash": "e83052a92c4ca0016bcfe7f0207273983dc84698",
-      "size": 36096
     },
     "curseforge:938890:6307058": {
       "path": "mods/NotableBubbleText-1.21.1-4.0.2.jar",

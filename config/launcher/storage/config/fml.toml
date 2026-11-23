@@ -1,0 +1,4 @@
+# Spec 007: Arffornia's early loading window (arffornia-earlywindow.jar, from the Arffornia_Mods release).
+earlyWindowProvider = "arffornia"
+# 1708x960 framebuffer: sharp text on HiDPI screens.
+earlyWindowFBScale = 2
