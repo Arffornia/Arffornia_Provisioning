@@ -2303,6 +2303,13 @@
       "hashType": "sha1",
       "hash": "38ebe34bc6bf0d7e549edc088aa2166442257e81",
       "size": 3104793
+    },
+    "modrinth:Vq4172Jo": {
+      "path": "mods/webgui-neoforge-2.0.0+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/tDw1xQja/versions/Vq4172Jo/webgui-neoforge-2.0.0%2Bmc1.21.1.jar",
+      "hashType": "sha1",
+      "hash": "415479a12c8a541f3cb7604bc29d9aefc811fd22",
+      "size": 518995
     }
   }
 }
