@@ -1647,6 +1647,10 @@
             {
                 "displayName": "CC: Tweaked",
                 "versionId": "VfbdrEu0"
+            },
+            {
+                "displayName": "WebGUI",
+                "versionId": "Vq4172Jo"
             }
         ],
         "github-releases": [

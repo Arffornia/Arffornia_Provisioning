@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T10:11:18.306Z",
+  "generatedAt": "2026-11-23T11:23:24.666Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -44,6 +44,11 @@
     {
       "path": "config/sdrp-common.json",
       "hash": "60c8109a1091346529ec7fbcdc8b717ffe811d4e",
+      "override": true
+    },
+    {
+      "path": "config/webgui/server.json",
+      "hash": "caa2284d6967ac3534967d237aaea2d6002fa6d9",
       "override": true
     },
     {
