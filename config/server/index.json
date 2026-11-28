@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T14:42:29.745Z",
+  "generatedAt": "2026-11-28T14:55:44.876Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -1859,16 +1859,6 @@
     {
       "path": "kubejs/startup_scripts/01_globals.js",
       "hash": "5e7843e8ca343109e48dd1e1ffce8b8b13552adb",
-      "override": true
-    },
-    {
-      "path": "mods/ftb-auxilium-neoforge-21.0.1.jar",
-      "hash": "a99742b6151d4ac0b3c3e08e4468f39abb2f3d47",
-      "override": true
-    },
-    {
-      "path": "mods/rgp-client-1.0.10+mc1.21.1.jar",
-      "hash": "5b30d6defd138b0314923c5d2dd0c7ef7c7ff67d",
       "override": true
     },
     {
