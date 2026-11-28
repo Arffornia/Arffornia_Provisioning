@@ -1,0 +1,6 @@
+#Arffornia API service account (dedicated server only)
+[api]
+	#The service account Client ID for API authentication.
+	clientId = "${CFG_SVC_ID}"
+	#The service account Client Secret for API authentication. Keep this file private.
+	clientSecret = "${CFG_SVC_PASSWORD}"
