@@ -27,7 +27,7 @@
     "jest": "30.5.2",
     "ts-jest": "29.4.15",
     "tsc-alias": "1.9.10",
-    "typescript": "5.9.3"
+    "typescript": "6.0.3"
   },
   "dependencies": {
     "@arffornia/nexus_mods": "1.1.0",
