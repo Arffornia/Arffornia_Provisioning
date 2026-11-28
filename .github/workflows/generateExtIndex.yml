@@ -5,6 +5,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: generate-index
+  cancel-in-progress: false
+
 jobs:
   generate-index:
     runs-on: ubuntu-latest
@@ -16,10 +20,10 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v7
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Generate index.json
         run: npx ts-node generateIndexes.ts
@@ -38,8 +42,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff -U0 -I'"generatedAt"' | grep -q .; then
+            echo "Only generatedAt changed, nothing to commit"
+            exit 0
+          fi
           git add config/proxy/index.json config/server/index.json config/launcher/index.json config/launcher/modList.lock.json config/server/modList.lock.json
           git commit -m "🔃 Update indexes"
+          git pull --rebase
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
