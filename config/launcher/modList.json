@@ -52,24 +52,9 @@
                 "fileId": "6184623"
             },
             {
-                "displayName": "Drippy Loading Screen",
-                "projectId": "511770",
-                "fileId": "6412226"
-            },
-            {
-                "displayName": "FancyMenu",
-                "projectId": "367706",
-                "fileId": "6408877"
-            },
-            {
                 "displayName": "Konkrete",
                 "projectId": "410295",
                 "fileId": "5453385"
-            },
-            {
-                "displayName": "Melody",
-                "projectId": "938643",
-                "fileId": "5453382"
             },
             {
                 "displayName": "Hostile Neural Networks",
@@ -546,7 +531,6 @@
                 "projectId": "653786",
                 "fileId": "5601037"
             },
-
             {
                 "displayName": "YUNG's Better End Island (NeoForge)",
                 "projectId": "1015127",
@@ -1660,6 +1644,13 @@
                 "repoName": "Arffornia_Mods",
                 "tag": "latest",
                 "assetName": "arffornia.jar"
+            },
+            {
+                "displayName": "Arffornia Early Window",
+                "owner": "Arffornia",
+                "repoName": "Arffornia_Mods",
+                "tag": "latest",
+                "assetName": "arffornia-earlywindow.jar"
             }
         ]
     }
