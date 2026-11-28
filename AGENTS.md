@@ -43,7 +43,8 @@ make docker
   objects; KubeJS scripts use `Text.translatable(key)` with keys in `kubejs/assets/<ns>/lang/{en_us,fr_fr}.json`
   (no `§` codes); keep the launcher and server KubeJS copies identical. Enforced by `tests/i18n-data.test.ts`.
 - Nexus_Mods is the owner's library: improve it (in its repo), never replace it.
-- Never commit secret values, never push to `main`, never merge, tag or release.
+- Never commit secret values.
+- Agents may merge their own PRs (squash) after CI is green and an agent review found no blocking issue. Agents never tag, release, push to main directly, or change production.
 - Infra (TheGostsniperfr/infra) is a separate repo: do not change it from here.
 
 ## Testing strategy
