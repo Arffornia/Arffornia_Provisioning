@@ -175,3 +175,22 @@ describe("server and launcher", () => {
         expect(mismatched).toEqual([]);
     });
 });
+
+// CurseForge's proxy refuses GitHub runners, so the bot cannot resolve new mods: the lock must be
+// regenerated (`make locks`) in the PR that changes a mod list.
+describe.each(["launcher", "server"] as const)("config/%s/modList.lock.json", (kind) => {
+    const modList = readJson<ModList>(kind, "modList.json");
+    const lock = readJson<{ schema: number; files: Record<string, unknown> }>(kind, "modList.lock.json");
+    const wanted = [
+        ...(modList.mods.curseforge ?? []).map(m => `curseforge:${m.projectId}:${m.fileId}`),
+        ...(modList.mods.modrinth ?? []).map(m => `modrinth:${m.versionId}`),
+    ];
+
+    it("locks every CurseForge and Modrinth entry (run `make locks`)", () => {
+        expect(wanted.filter(key => !(key in lock.files))).toEqual([]);
+    });
+
+    it("holds no entry that left the mod list (run `make locks`)", () => {
+        expect(Object.keys(lock.files).filter(key => !wanted.includes(key))).toEqual([]);
+    });
+});

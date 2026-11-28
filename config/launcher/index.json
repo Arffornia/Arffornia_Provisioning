@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T07:41:10.867Z",
+  "generatedAt": "2026-11-28T10:20:41.316Z",
   "files": [
     {
       "path": "config/.gitkeep",
@@ -12,38 +12,18 @@
       "override": true
     },
     {
-      "path": "config/fancymenu/assets/background.png",
-      "hash": "44174f1b79c0a6340233738920794491c5837df3",
-      "override": true
-    },
-    {
-      "path": "config/fancymenu/assets/logo.png",
-      "hash": "51f0a4e928908e7d3aa86d706cd018a75ea9c588",
-      "override": true
-    },
-    {
-      "path": "config/fancymenu/customizablemenus.txt",
-      "hash": "ac89850ef71e794f922e5f2454c12268fd8dd339",
-      "override": true
-    },
-    {
-      "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
-      "hash": "dffca85795b730b7e64c714b06ac6413cc08f433",
-      "override": true
-    },
-    {
-      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-      "hash": "adc605cf794120522f34a402a4301baf4e59350d",
-      "override": true
-    },
-    {
-      "path": "config/fancymenu/options.txt",
-      "hash": "d23b16c9ef7441f25e5061f19d5bf8bd73d5e211",
+      "path": "config/fml.toml",
+      "hash": "3438355c6f870e61663526cf61a8872f56123a20",
       "override": true
     },
     {
       "path": "config/sdrp-common.json",
       "hash": "60c8109a1091346529ec7fbcdc8b717ffe811d4e",
+      "override": true
+    },
+    {
+      "path": "config/webgui/server.json",
+      "hash": "caa2284d6967ac3534967d237aaea2d6002fa6d9",
       "override": true
     },
     {
@@ -193,7 +173,7 @@
     },
     {
       "path": "kubejs/config/client.json",
-      "hash": "d1babee139a1ef572dd6412054cb87500918c6e7",
+      "hash": "29c33ee0eee9a8e310c8b1fd2f1ce49bc7160860",
       "override": true
     },
     {
@@ -1794,11 +1774,6 @@
     {
       "path": "kubejs/startup_scripts/01_globals.js",
       "hash": "5e7843e8ca343109e48dd1e1ffce8b8b13552adb",
-      "override": true
-    },
-    {
-      "path": "mods/cc-tweaked-1.21.1-forge-1.115.1.jar",
-      "hash": "3fcea43ed79139a7d6f69f2a2ad93db021760171",
       "override": true
     },
     {

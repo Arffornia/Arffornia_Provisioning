@@ -6,6 +6,7 @@
     "typecheck": "tsc --noEmit -p .",
     "build": "tsc && tsc-alias",
     "indexes": "npx --yes ts-node@10.9.2 generateIndexes.ts",
+    "locks": "npx --yes ts-node@10.9.2 generateModLocks.ts",
     "start": "node dist/configUpdater.js"
   },
   "main": "dist/configUpdater.js",
@@ -22,7 +23,7 @@
   "description": "Arffornia modpack configuration (server, proxy, launcher) and the config-updater init container.",
   "devDependencies": {
     "@types/jest": "30.0.0",
-    "@types/node": "24.7.2",
+    "@types/node": "25.9.9",
     "jest": "30.5.2",
     "ts-jest": "29.4.15",
     "tsc-alias": "1.9.10",
@@ -30,7 +31,7 @@
   },
   "dependencies": {
     "@arffornia/nexus_mods": "1.1.0",
-    "axios": "1.21.0"
+    "axios": "1.21.1"
   },
   "private": true
 }
